@@ -2,6 +2,7 @@
   "meta": {
     "data_date": "2026-06-30",
     "previous_date": "2026-06-29",
+    "comparison_date": "2026-06-23",
     "revenue_display_basis": "营业收入",
     "map_heat_basis": "营业额",
     "prototype": true
@@ -12,7 +13,8 @@
     "net_revenue": 2337384.86,
     "diners": 24443,
     "orders": 9615,
-    "discount_ratio": 0.278337
+    "discount_ratio": 0.278337,
+    "gross_same_week_change": 0.337306
   },
   "provinces": [
     {
@@ -24,7 +26,10 @@
       "diners": 3719,
       "orders": 1418,
       "discount_ratio": 0.234799,
-      "revenue_change": 0.239854
+      "revenue_change": 0.239854,
+      "gross_revenue_change": 0.226556,
+      "gross_same_week_change": 0.426325,
+      "gross_vs_market_gap": 0.089019
     },
     {
       "name": "四川省",
@@ -35,7 +40,10 @@
       "diners": 1144,
       "orders": 351,
       "discount_ratio": 0.743411,
-      "revenue_change": 0.374927
+      "revenue_change": 0.374927,
+      "gross_revenue_change": 3.136344,
+      "gross_same_week_change": 2.76404,
+      "gross_vs_market_gap": 2.426734
     },
     {
       "name": "江苏省",
@@ -46,7 +54,10 @@
       "diners": 2811,
       "orders": 1120,
       "discount_ratio": 0.215993,
-      "revenue_change": 0.232604
+      "revenue_change": 0.232604,
+      "gross_revenue_change": 0.22044,
+      "gross_same_week_change": 0.417858,
+      "gross_vs_market_gap": 0.080552
     },
     {
       "name": "安徽省",
@@ -57,7 +68,10 @@
       "diners": 2774,
       "orders": 968,
       "discount_ratio": 0.168782,
-      "revenue_change": 0.122962
+      "revenue_change": 0.122962,
+      "gross_revenue_change": 0.085111,
+      "gross_same_week_change": 0.530103,
+      "gross_vs_market_gap": 0.192797
     },
     {
       "name": "北京市",
@@ -68,7 +82,10 @@
       "diners": 1192,
       "orders": 582,
       "discount_ratio": 0.209991,
-      "revenue_change": 0.071892
+      "revenue_change": 0.071892,
+      "gross_revenue_change": 0.092871,
+      "gross_same_week_change": 0.060843,
+      "gross_vs_market_gap": -0.276463
     },
     {
       "name": "河北省",
@@ -79,7 +96,10 @@
       "diners": 1190,
       "orders": 510,
       "discount_ratio": 0.239685,
-      "revenue_change": 0.132506
+      "revenue_change": 0.132506,
+      "gross_revenue_change": 0.120238,
+      "gross_same_week_change": -0.020678,
+      "gross_vs_market_gap": -0.357984
     },
     {
       "name": "浙江省",
@@ -90,7 +110,10 @@
       "diners": 1198,
       "orders": 449,
       "discount_ratio": 0.113906,
-      "revenue_change": 0.262239
+      "revenue_change": 0.262239,
+      "gross_revenue_change": 0.255475,
+      "gross_same_week_change": 0.391143,
+      "gross_vs_market_gap": 0.053837
     },
     {
       "name": "新疆维吾尔自治区",
@@ -101,7 +124,10 @@
       "diners": 1300,
       "orders": 411,
       "discount_ratio": 0.159088,
-      "revenue_change": 0.091622
+      "revenue_change": 0.091622,
+      "gross_revenue_change": 0.063202,
+      "gross_same_week_change": 0.192155,
+      "gross_vs_market_gap": -0.145151
     },
     {
       "name": "陕西省",
@@ -112,7 +138,10 @@
       "diners": 953,
       "orders": 343,
       "discount_ratio": 0.399032,
-      "revenue_change": -0.029696
+      "revenue_change": -0.029696,
+      "gross_revenue_change": -0.017605,
+      "gross_same_week_change": 0.321011,
+      "gross_vs_market_gap": -0.016295
     },
     {
       "name": "山西省",
@@ -123,7 +152,10 @@
       "diners": 1020,
       "orders": 396,
       "discount_ratio": 0.15283,
-      "revenue_change": -0.006205
+      "revenue_change": -0.006205,
+      "gross_revenue_change": -0.012199,
+      "gross_same_week_change": 0.233901,
+      "gross_vs_market_gap": -0.103405
     },
     {
       "name": "贵州省",
@@ -134,7 +166,10 @@
       "diners": 889,
       "orders": 376,
       "discount_ratio": 0.214138,
-      "revenue_change": -0.026533
+      "revenue_change": -0.026533,
+      "gross_revenue_change": -0.007754,
+      "gross_same_week_change": 0.013318,
+      "gross_vs_market_gap": -0.323988
     },
     {
       "name": "湖北省",
@@ -145,7 +180,10 @@
       "diners": 869,
       "orders": 382,
       "discount_ratio": 0.228312,
-      "revenue_change": 0.178091
+      "revenue_change": 0.178091,
+      "gross_revenue_change": 0.095605,
+      "gross_same_week_change": -0.006236,
+      "gross_vs_market_gap": -0.343542
     },
     {
       "name": "湖南省",
@@ -156,7 +194,10 @@
       "diners": 907,
       "orders": 345,
       "discount_ratio": 0.1956,
-      "revenue_change": 0.123575
+      "revenue_change": 0.123575,
+      "gross_revenue_change": 0.077018,
+      "gross_same_week_change": 0.034419,
+      "gross_vs_market_gap": -0.302887
     },
     {
       "name": "甘肃省",
@@ -167,7 +208,10 @@
       "diners": 710,
       "orders": 259,
       "discount_ratio": 0.197891,
-      "revenue_change": 0.404274
+      "revenue_change": 0.404274,
+      "gross_revenue_change": 0.354702,
+      "gross_same_week_change": 0.164284,
+      "gross_vs_market_gap": -0.173022
     },
     {
       "name": "福建省",
@@ -178,7 +222,10 @@
       "diners": 661,
       "orders": 261,
       "discount_ratio": 0.140927,
-      "revenue_change": 0.035051
+      "revenue_change": 0.035051,
+      "gross_revenue_change": 0.009743,
+      "gross_same_week_change": 0.178787,
+      "gross_vs_market_gap": -0.158519
     },
     {
       "name": "上海市",
@@ -189,7 +236,10 @@
       "diners": 287,
       "orders": 398,
       "discount_ratio": 0.32094,
-      "revenue_change": 0.315909
+      "revenue_change": 0.315909,
+      "gross_revenue_change": 0.231381,
+      "gross_same_week_change": 0.087071,
+      "gross_vs_market_gap": -0.250235
     },
     {
       "name": "黑龙江省",
@@ -200,7 +250,10 @@
       "diners": 388,
       "orders": 149,
       "discount_ratio": 0.246541,
-      "revenue_change": 0.103887
+      "revenue_change": 0.103887,
+      "gross_revenue_change": 0.020362,
+      "gross_same_week_change": 0.075975,
+      "gross_vs_market_gap": -0.261331
     },
     {
       "name": "重庆市",
@@ -211,7 +264,10 @@
       "diners": 524,
       "orders": 170,
       "discount_ratio": 0.302417,
-      "revenue_change": -0.075761
+      "revenue_change": -0.075761,
+      "gross_revenue_change": -0.032829,
+      "gross_same_week_change": 0.179129,
+      "gross_vs_market_gap": -0.158177
     },
     {
       "name": "辽宁省",
@@ -222,7 +278,10 @@
       "diners": 432,
       "orders": 173,
       "discount_ratio": 0.219306,
-      "revenue_change": -0.137166
+      "revenue_change": -0.137166,
+      "gross_revenue_change": -0.129031,
+      "gross_same_week_change": -0.138852,
+      "gross_vs_market_gap": -0.476158
     },
     {
       "name": "河南省",
@@ -233,7 +292,10 @@
       "diners": 535,
       "orders": 183,
       "discount_ratio": 0.226282,
-      "revenue_change": 0.188318
+      "revenue_change": 0.188318,
+      "gross_revenue_change": 0.178099,
+      "gross_same_week_change": -0.06836,
+      "gross_vs_market_gap": -0.405666
     },
     {
       "name": "海南省",
@@ -244,7 +306,10 @@
       "diners": 223,
       "orders": 85,
       "discount_ratio": 0.160268,
-      "revenue_change": 0.039781
+      "revenue_change": 0.039781,
+      "gross_revenue_change": 0.019623,
+      "gross_same_week_change": 1.168397,
+      "gross_vs_market_gap": 0.831091
     },
     {
       "name": "宁夏回族自治区",
@@ -255,7 +320,10 @@
       "diners": 182,
       "orders": 76,
       "discount_ratio": 0.173792,
-      "revenue_change": 0.122584
+      "revenue_change": 0.122584,
+      "gross_revenue_change": 0.115002,
+      "gross_same_week_change": 0.144797,
+      "gross_vs_market_gap": -0.192509
     },
     {
       "name": "天津市",
@@ -266,7 +334,10 @@
       "diners": 141,
       "orders": 65,
       "discount_ratio": 0.079296,
-      "revenue_change": 0.584073
+      "revenue_change": 0.584073,
+      "gross_revenue_change": 0.56119,
+      "gross_same_week_change": 0.20084,
+      "gross_vs_market_gap": -0.136466
     },
     {
       "name": "西藏自治区",
@@ -277,7 +348,10 @@
       "diners": 134,
       "orders": 41,
       "discount_ratio": 0.131191,
-      "revenue_change": 0.02535
+      "revenue_change": 0.02535,
+      "gross_revenue_change": -0.014281,
+      "gross_same_week_change": 0.156211,
+      "gross_vs_market_gap": -0.181095
     },
     {
       "name": "江西省",
@@ -288,7 +362,10 @@
       "diners": 97,
       "orders": 35,
       "discount_ratio": 0.337033,
-      "revenue_change": 0.204572
+      "revenue_change": 0.204572,
+      "gross_revenue_change": 0.05341,
+      "gross_same_week_change": 0.227991,
+      "gross_vs_market_gap": -0.109315
     },
     {
       "name": "吉林省",
@@ -299,7 +376,10 @@
       "diners": 107,
       "orders": 45,
       "discount_ratio": 0.189192,
-      "revenue_change": -0.324194
+      "revenue_change": -0.324194,
+      "gross_revenue_change": -0.342712,
+      "gross_same_week_change": -0.100441,
+      "gross_vs_market_gap": -0.437747
     },
     {
       "name": "青海省",
@@ -310,7 +390,10 @@
       "diners": 35,
       "orders": 16,
       "discount_ratio": 0.050977,
-      "revenue_change": -0.209256
+      "revenue_change": -0.209256,
+      "gross_revenue_change": -0.259515,
+      "gross_same_week_change": -0.310647,
+      "gross_vs_market_gap": -0.647953
     },
     {
       "name": "云南省",
@@ -321,7 +404,10 @@
       "diners": 17,
       "orders": 6,
       "discount_ratio": 0.022581,
-      "revenue_change": -0.205064
+      "revenue_change": -0.205064,
+      "gross_revenue_change": -0.186699,
+      "gross_same_week_change": 0.24,
+      "gross_vs_market_gap": -0.097306
     },
     {
       "name": "内蒙古自治区",
@@ -332,7 +418,10 @@
       "diners": 4,
       "orders": 2,
       "discount_ratio": 0.140975,
-      "revenue_change": -0.686792
+      "revenue_change": -0.686792,
+      "gross_revenue_change": -0.64959,
+      "gross_same_week_change": -0.706522,
+      "gross_vs_market_gap": -1.043828
     }
   ],
   "cities": [
@@ -345,7 +434,10 @@
       "diners": 146,
       "orders": 66,
       "discount_ratio": 0.972007,
-      "revenue_change": 0.625388
+      "revenue_change": 0.625388,
+      "gross_revenue_change": 42.651756,
+      "gross_same_week_change": 27.876807,
+      "gross_vs_market_gap": 27.539501
     },
     {
       "province": "山东省",
@@ -356,7 +448,10 @@
       "diners": 2025,
       "orders": 732,
       "discount_ratio": 0.264571,
-      "revenue_change": 0.310399
+      "revenue_change": 0.310399,
+      "gross_revenue_change": 0.314421,
+      "gross_same_week_change": 0.640225,
+      "gross_vs_market_gap": 0.302919
     },
     {
       "province": "北京市",
@@ -367,7 +462,10 @@
       "diners": 1192,
       "orders": 582,
       "discount_ratio": 0.209991,
-      "revenue_change": 0.071892
+      "revenue_change": 0.071892,
+      "gross_revenue_change": 0.092871,
+      "gross_same_week_change": 0.060843,
+      "gross_vs_market_gap": -0.276463
     },
     {
       "province": "江苏省",
@@ -378,7 +476,10 @@
       "diners": 1063,
       "orders": 464,
       "discount_ratio": 0.246121,
-      "revenue_change": 0.043075
+      "revenue_change": 0.043075,
+      "gross_revenue_change": 0.048298,
+      "gross_same_week_change": 0.220722,
+      "gross_vs_market_gap": -0.116584
     },
     {
       "province": "安徽省",
@@ -389,7 +490,10 @@
       "diners": 1315,
       "orders": 468,
       "discount_ratio": 0.164506,
-      "revenue_change": 0.089457
+      "revenue_change": 0.089457,
+      "gross_revenue_change": 0.045352,
+      "gross_same_week_change": 0.526055,
+      "gross_vs_market_gap": 0.188749
     },
     {
       "province": "陕西省",
@@ -400,7 +504,10 @@
       "diners": 812,
       "orders": 300,
       "discount_ratio": 0.420996,
-      "revenue_change": -0.020672
+      "revenue_change": -0.020672,
+      "gross_revenue_change": -0.009558,
+      "gross_same_week_change": 0.33963,
+      "gross_vs_market_gap": 0.002324
     },
     {
       "province": "山东省",
@@ -411,7 +518,10 @@
       "diners": 829,
       "orders": 345,
       "discount_ratio": 0.19267,
-      "revenue_change": 0.305743
+      "revenue_change": 0.305743,
+      "gross_revenue_change": 0.236636,
+      "gross_same_week_change": 0.319673,
+      "gross_vs_market_gap": -0.017633
     },
     {
       "province": "四川省",
@@ -422,7 +532,10 @@
       "diners": 810,
       "orders": 237,
       "discount_ratio": 0.234499,
-      "revenue_change": 0.389658
+      "revenue_change": 0.389658,
+      "gross_revenue_change": 0.352822,
+      "gross_same_week_change": 0.241502,
+      "gross_vs_market_gap": -0.095804
     },
     {
       "province": "山西省",
@@ -433,7 +546,10 @@
       "diners": 773,
       "orders": 276,
       "discount_ratio": 0.171746,
-      "revenue_change": 0.098484
+      "revenue_change": 0.098484,
+      "gross_revenue_change": 0.096773,
+      "gross_same_week_change": 0.405272,
+      "gross_vs_market_gap": 0.067966
     },
     {
       "province": "河北省",
@@ -444,7 +560,10 @@
       "diners": 631,
       "orders": 289,
       "discount_ratio": 0.258056,
-      "revenue_change": 0.259987
+      "revenue_change": 0.259987,
+      "gross_revenue_change": 0.217486,
+      "gross_same_week_change": -0.016887,
+      "gross_vs_market_gap": -0.354193
     },
     {
       "province": "湖北省",
@@ -455,7 +574,10 @@
       "diners": 576,
       "orders": 281,
       "discount_ratio": 0.234946,
-      "revenue_change": 0.03563
+      "revenue_change": 0.03563,
+      "gross_revenue_change": -0.016243,
+      "gross_same_week_change": -0.106613,
+      "gross_vs_market_gap": -0.443919
     },
     {
       "province": "湖南省",
@@ -466,7 +588,10 @@
       "diners": 571,
       "orders": 221,
       "discount_ratio": 0.191237,
-      "revenue_change": 0.230514
+      "revenue_change": 0.230514,
+      "gross_revenue_change": 0.199355,
+      "gross_same_week_change": 0.117128,
+      "gross_vs_market_gap": -0.220178
     },
     {
       "province": "安徽省",
@@ -477,7 +602,10 @@
       "diners": 581,
       "orders": 214,
       "discount_ratio": 0.203243,
-      "revenue_change": 0.097083
+      "revenue_change": 0.097083,
+      "gross_revenue_change": 0.089875,
+      "gross_same_week_change": 0.630671,
+      "gross_vs_market_gap": 0.293365
     },
     {
       "province": "新疆维吾尔自治区",
@@ -488,7 +616,10 @@
       "diners": 595,
       "orders": 186,
       "discount_ratio": 0.083718,
-      "revenue_change": -0.096506
+      "revenue_change": -0.096506,
+      "gross_revenue_change": -0.136545,
+      "gross_same_week_change": 0.130691,
+      "gross_vs_market_gap": -0.206615
     },
     {
       "province": "福建省",
@@ -499,7 +630,10 @@
       "diners": 490,
       "orders": 187,
       "discount_ratio": 0.140688,
-      "revenue_change": -0.013218
+      "revenue_change": -0.013218,
+      "gross_revenue_change": -0.021459,
+      "gross_same_week_change": 0.252155,
+      "gross_vs_market_gap": -0.085151
     },
     {
       "province": "上海市",
@@ -510,7 +644,10 @@
       "diners": 287,
       "orders": 398,
       "discount_ratio": 0.32094,
-      "revenue_change": 0.315909
+      "revenue_change": 0.315909,
+      "gross_revenue_change": 0.231381,
+      "gross_same_week_change": 0.087071,
+      "gross_vs_market_gap": -0.250235
     },
     {
       "province": "黑龙江省",
@@ -521,7 +658,10 @@
       "diners": 388,
       "orders": 149,
       "discount_ratio": 0.246541,
-      "revenue_change": 0.103887
+      "revenue_change": 0.103887,
+      "gross_revenue_change": 0.020362,
+      "gross_same_week_change": 0.075975,
+      "gross_vs_market_gap": -0.261331
     },
     {
       "province": "重庆市",
@@ -532,7 +672,10 @@
       "diners": 524,
       "orders": 170,
       "discount_ratio": 0.302417,
-      "revenue_change": -0.075761
+      "revenue_change": -0.075761,
+      "gross_revenue_change": -0.032829,
+      "gross_same_week_change": 0.179129,
+      "gross_vs_market_gap": -0.158177
     },
     {
       "province": "辽宁省",
@@ -543,7 +686,10 @@
       "diners": 413,
       "orders": 164,
       "discount_ratio": 0.224032,
-      "revenue_change": -0.140041
+      "revenue_change": -0.140041,
+      "gross_revenue_change": -0.132992,
+      "gross_same_week_change": -0.136401,
+      "gross_vs_market_gap": -0.473707
     },
     {
       "province": "江苏省",
@@ -554,7 +700,10 @@
       "diners": 337,
       "orders": 135,
       "discount_ratio": 0.158221,
-      "revenue_change": 0.341175
+      "revenue_change": 0.341175,
+      "gross_revenue_change": 0.319545,
+      "gross_same_week_change": 0.303524,
+      "gross_vs_market_gap": -0.033782
     },
     {
       "province": "浙江省",
@@ -565,7 +714,10 @@
       "diners": 371,
       "orders": 130,
       "discount_ratio": 0.14219,
-      "revenue_change": 0.101231
+      "revenue_change": 0.101231,
+      "gross_revenue_change": 0.10762,
+      "gross_same_week_change": 0.347187,
+      "gross_vs_market_gap": 0.009881
     },
     {
       "province": "贵州省",
@@ -576,7 +728,10 @@
       "diners": 315,
       "orders": 127,
       "discount_ratio": 0.237666,
-      "revenue_change": 0.016178
+      "revenue_change": 0.016178,
+      "gross_revenue_change": 0.019123,
+      "gross_same_week_change": -0.032487,
+      "gross_vs_market_gap": -0.369793
     },
     {
       "province": "甘肃省",
@@ -587,7 +742,10 @@
       "diners": 297,
       "orders": 114,
       "discount_ratio": 0.183273,
-      "revenue_change": 1.154549
+      "revenue_change": 1.154549,
+      "gross_revenue_change": 1.105359,
+      "gross_same_week_change": 0.974905,
+      "gross_vs_market_gap": 0.637599
     },
     {
       "province": "贵州省",
@@ -598,7 +756,10 @@
       "diners": 205,
       "orders": 109,
       "discount_ratio": 0.262497,
-      "revenue_change": 0.011056
+      "revenue_change": 0.011056,
+      "gross_revenue_change": 0.002704,
+      "gross_same_week_change": 0.092437,
+      "gross_vs_market_gap": -0.244869
     },
     {
       "province": "河北省",
@@ -609,7 +770,10 @@
       "diners": 315,
       "orders": 132,
       "discount_ratio": 0.268401,
-      "revenue_change": 0.169919
+      "revenue_change": 0.169919,
+      "gross_revenue_change": 0.15264,
+      "gross_same_week_change": 0.107928,
+      "gross_vs_market_gap": -0.229378
     },
     {
       "province": "江苏省",
@@ -620,7 +784,10 @@
       "diners": 303,
       "orders": 106,
       "discount_ratio": 0.253239,
-      "revenue_change": 0.36713
+      "revenue_change": 0.36713,
+      "gross_revenue_change": 0.369856,
+      "gross_same_week_change": 0.346844,
+      "gross_vs_market_gap": 0.009538
     },
     {
       "province": "安徽省",
@@ -631,7 +798,10 @@
       "diners": 315,
       "orders": 110,
       "discount_ratio": 0.144946,
-      "revenue_change": 0.20615
+      "revenue_change": 0.20615,
+      "gross_revenue_change": 0.166478,
+      "gross_same_week_change": 0.710893,
+      "gross_vs_market_gap": 0.373587
     },
     {
       "province": "浙江省",
@@ -642,7 +812,10 @@
       "diners": 234,
       "orders": 96,
       "discount_ratio": 0.105388,
-      "revenue_change": 0.356521
+      "revenue_change": 0.356521,
+      "gross_revenue_change": 0.322758,
+      "gross_same_week_change": 0.151767,
+      "gross_vs_market_gap": -0.185539
     },
     {
       "province": "山东省",
@@ -653,7 +826,10 @@
       "diners": 289,
       "orders": 109,
       "discount_ratio": 0.157164,
-      "revenue_change": -0.281492
+      "revenue_change": -0.281492,
+      "gross_revenue_change": -0.261596,
+      "gross_same_week_change": 0.111367,
+      "gross_vs_market_gap": -0.225939
     },
     {
       "province": "安徽省",
@@ -664,7 +840,10 @@
       "diners": 256,
       "orders": 75,
       "discount_ratio": 0.141968,
-      "revenue_change": 0.512113
+      "revenue_change": 0.512113,
+      "gross_revenue_change": 0.400126,
+      "gross_same_week_change": 0.146949,
+      "gross_vs_market_gap": -0.190357
     },
     {
       "province": "江苏省",
@@ -675,7 +854,10 @@
       "diners": 223,
       "orders": 81,
       "discount_ratio": 0.194177,
-      "revenue_change": 0.846762
+      "revenue_change": 0.846762,
+      "gross_revenue_change": 0.78728,
+      "gross_same_week_change": 1.585175,
+      "gross_vs_market_gap": 1.247869
     },
     {
       "province": "新疆维吾尔自治区",
@@ -686,7 +868,10 @@
       "diners": 205,
       "orders": 69,
       "discount_ratio": 0.305637,
-      "revenue_change": 0.598342
+      "revenue_change": 0.598342,
+      "gross_revenue_change": 0.611806,
+      "gross_same_week_change": 0.630635,
+      "gross_vs_market_gap": 0.293329
     },
     {
       "province": "河南省",
@@ -697,7 +882,10 @@
       "diners": 310,
       "orders": 106,
       "discount_ratio": 0.189145,
-      "revenue_change": 0.081429
+      "revenue_change": 0.081429,
+      "gross_revenue_change": 0.093212,
+      "gross_same_week_change": 0.06361,
+      "gross_vs_market_gap": -0.273696
     },
     {
       "province": "甘肃省",
@@ -708,7 +896,10 @@
       "diners": 225,
       "orders": 85,
       "discount_ratio": 0.171427,
-      "revenue_change": 0.199491
+      "revenue_change": 0.199491,
+      "gross_revenue_change": 0.116368,
+      "gross_same_week_change": -0.051403,
+      "gross_vs_market_gap": -0.388709
     },
     {
       "province": "山西省",
@@ -719,7 +910,10 @@
       "diners": 153,
       "orders": 89,
       "discount_ratio": 0.079745,
-      "revenue_change": -0.08663
+      "revenue_change": -0.08663,
+      "gross_revenue_change": -0.099402,
+      "gross_same_week_change": 0.192214,
+      "gross_vs_market_gap": -0.145092
     },
     {
       "province": "江苏省",
@@ -730,7 +924,10 @@
       "diners": 199,
       "orders": 74,
       "discount_ratio": 0.183683,
-      "revenue_change": 1.048261
+      "revenue_change": 1.048261,
+      "gross_revenue_change": 1.068212,
+      "gross_same_week_change": 0.967501,
+      "gross_vs_market_gap": 0.630195
     },
     {
       "province": "贵州省",
@@ -741,7 +938,10 @@
       "diners": 272,
       "orders": 92,
       "discount_ratio": 0.105417,
-      "revenue_change": 0.137766
+      "revenue_change": 0.137766,
+      "gross_revenue_change": 0.101901,
+      "gross_same_week_change": -0.075547,
+      "gross_vs_market_gap": -0.412853
     },
     {
       "province": "新疆维吾尔自治区",
@@ -752,7 +952,10 @@
       "diners": 209,
       "orders": 74,
       "discount_ratio": 0.136232,
-      "revenue_change": 0.337118
+      "revenue_change": 0.337118,
+      "gross_revenue_change": 0.224042,
+      "gross_same_week_change": -0.00444,
+      "gross_vs_market_gap": -0.341746
     },
     {
       "province": "浙江省",
@@ -763,7 +966,10 @@
       "diners": 200,
       "orders": 77,
       "discount_ratio": 0.063247,
-      "revenue_change": 1.049465
+      "revenue_change": 1.049465,
+      "gross_revenue_change": 0.950574,
+      "gross_same_week_change": 0.696565,
+      "gross_vs_market_gap": 0.359259
     },
     {
       "province": "新疆维吾尔自治区",
@@ -774,7 +980,10 @@
       "diners": 206,
       "orders": 52,
       "discount_ratio": 0.255457,
-      "revenue_change": -0.018724
+      "revenue_change": -0.018724,
+      "gross_revenue_change": -0.02569,
+      "gross_same_week_change": 0.101184,
+      "gross_vs_market_gap": -0.236122
     },
     {
       "province": "海南省",
@@ -785,7 +994,10 @@
       "diners": 159,
       "orders": 64,
       "discount_ratio": 0.189948,
-      "revenue_change": 0.083411
+      "revenue_change": 0.083411,
+      "gross_revenue_change": 0.050734,
+      "gross_same_week_change": 0.998858,
+      "gross_vs_market_gap": 0.661552
     },
     {
       "province": "安徽省",
@@ -796,7 +1008,10 @@
       "diners": 200,
       "orders": 67,
       "discount_ratio": 0.105448,
-      "revenue_change": -0.061273
+      "revenue_change": -0.061273,
+      "gross_revenue_change": -0.085443,
+      "gross_same_week_change": 0.321161,
+      "gross_vs_market_gap": -0.016145
     },
     {
       "province": "浙江省",
@@ -807,7 +1022,10 @@
       "diners": 138,
       "orders": 55,
       "discount_ratio": 0.201518,
-      "revenue_change": 0.032252
+      "revenue_change": 0.032252,
+      "gross_revenue_change": 0.09358,
+      "gross_same_week_change": 0.23846,
+      "gross_vs_market_gap": -0.098846
     },
     {
       "province": "山东省",
@@ -818,7 +1036,10 @@
       "diners": 142,
       "orders": 60,
       "discount_ratio": 0.371518,
-      "revenue_change": 0.338619
+      "revenue_change": 0.338619,
+      "gross_revenue_change": 0.27427,
+      "gross_same_week_change": 0.149974,
+      "gross_vs_market_gap": -0.187332
     },
     {
       "province": "湖南省",
@@ -829,7 +1050,10 @@
       "diners": 172,
       "orders": 64,
       "discount_ratio": 0.279987,
-      "revenue_change": -0.197911
+      "revenue_change": -0.197911,
+      "gross_revenue_change": -0.209969,
+      "gross_same_week_change": -0.183449,
+      "gross_vs_market_gap": -0.520755
     },
     {
       "province": "江苏省",
@@ -840,7 +1064,10 @@
       "diners": 144,
       "orders": 52,
       "discount_ratio": 0.3103,
-      "revenue_change": 0.353742
+      "revenue_change": 0.353742,
+      "gross_revenue_change": 0.331442,
+      "gross_same_week_change": 0.408222,
+      "gross_vs_market_gap": 0.070916
     },
     {
       "province": "河北省",
@@ -851,7 +1078,10 @@
       "diners": 186,
       "orders": 67,
       "discount_ratio": 0.145635,
-      "revenue_change": 0.261278
+      "revenue_change": 0.261278,
+      "gross_revenue_change": 0.219526,
+      "gross_same_week_change": 0.053233,
+      "gross_vs_market_gap": -0.284073
     },
     {
       "province": "天津市",
@@ -862,7 +1092,10 @@
       "diners": 141,
       "orders": 65,
       "discount_ratio": 0.079296,
-      "revenue_change": 0.584073
+      "revenue_change": 0.584073,
+      "gross_revenue_change": 0.56119,
+      "gross_same_week_change": 0.20084,
+      "gross_vs_market_gap": -0.136466
     },
     {
       "province": "西藏自治区",
@@ -873,7 +1106,10 @@
       "diners": 134,
       "orders": 41,
       "discount_ratio": 0.131191,
-      "revenue_change": 0.02535
+      "revenue_change": 0.02535,
+      "gross_revenue_change": -0.014281,
+      "gross_same_week_change": 0.156211,
+      "gross_vs_market_gap": -0.181095
     },
     {
       "province": "湖北省",
@@ -884,7 +1120,10 @@
       "diners": 163,
       "orders": 54,
       "discount_ratio": 0.239815,
-      "revenue_change": 1.032424
+      "revenue_change": 1.032424,
+      "gross_revenue_change": 0.844586,
+      "gross_same_week_change": 1.215014,
+      "gross_vs_market_gap": 0.877708
     },
     {
       "province": "浙江省",
@@ -895,7 +1134,10 @@
       "diners": 130,
       "orders": 47,
       "discount_ratio": 0.061946,
-      "revenue_change": 0.665177
+      "revenue_change": 0.665177,
+      "gross_revenue_change": 0.667324,
+      "gross_same_week_change": 1.18808,
+      "gross_vs_market_gap": 0.850774
     },
     {
       "province": "江苏省",
@@ -906,7 +1148,10 @@
       "diners": 134,
       "orders": 40,
       "discount_ratio": 0.128399,
-      "revenue_change": 4.196125
+      "revenue_change": 4.196125,
+      "gross_revenue_change": 4.249834,
+      "gross_same_week_change": 1.574309,
+      "gross_vs_market_gap": 1.237003
     },
     {
       "province": "湖北省",
@@ -917,7 +1162,10 @@
       "diners": 130,
       "orders": 47,
       "discount_ratio": 0.180129,
-      "revenue_change": 0.621069
+      "revenue_change": 0.621069,
+      "gross_revenue_change": 0.33053,
+      "gross_same_week_change": 0.006797,
+      "gross_vs_market_gap": -0.330509
     },
     {
       "province": "山东省",
@@ -928,7 +1176,10 @@
       "diners": 130,
       "orders": 48,
       "discount_ratio": 0.254376,
-      "revenue_change": 0.7172
+      "revenue_change": 0.7172,
+      "gross_revenue_change": 0.707506,
+      "gross_same_week_change": 0.468568,
+      "gross_vs_market_gap": 0.131262
     },
     {
       "province": "江西省",
@@ -939,7 +1190,10 @@
       "diners": 97,
       "orders": 35,
       "discount_ratio": 0.337033,
-      "revenue_change": 0.204572
+      "revenue_change": 0.204572,
+      "gross_revenue_change": 0.05341,
+      "gross_same_week_change": 0.227991,
+      "gross_vs_market_gap": -0.109315
     },
     {
       "province": "江苏省",
@@ -950,7 +1204,10 @@
       "diners": 122,
       "orders": 45,
       "discount_ratio": 0.07709,
-      "revenue_change": 0.015682
+      "revenue_change": 0.015682,
+      "gross_revenue_change": -0.060275,
+      "gross_same_week_change": 0.143661,
+      "gross_vs_market_gap": -0.193645
     },
     {
       "province": "浙江省",
@@ -961,7 +1218,10 @@
       "diners": 125,
       "orders": 44,
       "discount_ratio": 0.047994,
-      "revenue_change": -0.041007
+      "revenue_change": -0.041007,
+      "gross_revenue_change": -0.041148,
+      "gross_same_week_change": 0.489916,
+      "gross_vs_market_gap": 0.15261
     },
     {
       "province": "福建省",
@@ -972,7 +1232,10 @@
       "diners": 110,
       "orders": 40,
       "discount_ratio": 0.138929,
-      "revenue_change": 0.164217
+      "revenue_change": 0.164217,
+      "gross_revenue_change": 0.101676,
+      "gross_same_week_change": 0.077498,
+      "gross_vs_market_gap": -0.259808
     },
     {
       "province": "贵州省",
@@ -983,7 +1246,10 @@
       "diners": 97,
       "orders": 48,
       "discount_ratio": 0.195022,
-      "revenue_change": -0.357589
+      "revenue_change": -0.357589,
+      "gross_revenue_change": -0.233283,
+      "gross_same_week_change": 0.146871,
+      "gross_vs_market_gap": -0.190435
     },
     {
       "province": "宁夏回族自治区",
@@ -994,7 +1260,10 @@
       "diners": 131,
       "orders": 57,
       "discount_ratio": 0.150823,
-      "revenue_change": 0.158221
+      "revenue_change": 0.158221,
+      "gross_revenue_change": 0.151676,
+      "gross_same_week_change": 0.189765,
+      "gross_vs_market_gap": -0.147541
     },
     {
       "province": "河南省",
@@ -1005,7 +1274,10 @@
       "diners": 110,
       "orders": 44,
       "discount_ratio": 0.288148,
-      "revenue_change": 0.296734
+      "revenue_change": 0.296734,
+      "gross_revenue_change": 0.207084,
+      "gross_same_week_change": -0.387057,
+      "gross_vs_market_gap": -0.724363
     },
     {
       "province": "江苏省",
@@ -1016,7 +1288,10 @@
       "diners": 93,
       "orders": 33,
       "discount_ratio": 0.213475,
-      "revenue_change": 0.607088
+      "revenue_change": 0.607088,
+      "gross_revenue_change": 0.615527,
+      "gross_same_week_change": 2.005659,
+      "gross_vs_market_gap": 1.668353
     },
     {
       "province": "吉林省",
@@ -1027,7 +1302,10 @@
       "diners": 107,
       "orders": 45,
       "discount_ratio": 0.189192,
-      "revenue_change": -0.324194
+      "revenue_change": -0.324194,
+      "gross_revenue_change": -0.342712,
+      "gross_same_week_change": -0.100441,
+      "gross_vs_market_gap": -0.437747
     },
     {
       "province": "山东省",
@@ -1038,7 +1316,10 @@
       "diners": 96,
       "orders": 38,
       "discount_ratio": 0.074244,
-      "revenue_change": 2.094465
+      "revenue_change": 2.094465,
+      "gross_revenue_change": 2.230091,
+      "gross_same_week_change": 0.404223,
+      "gross_vs_market_gap": 0.066917
     },
     {
       "province": "河南省",
@@ -1049,7 +1330,10 @@
       "diners": 115,
       "orders": 33,
       "discount_ratio": 0.247395,
-      "revenue_change": 0.456641
+      "revenue_change": 0.456641,
+      "gross_revenue_change": 0.430836,
+      "gross_same_week_change": 0.377033,
+      "gross_vs_market_gap": 0.039727
     },
     {
       "province": "新疆维吾尔自治区",
@@ -1060,7 +1344,10 @@
       "diners": 85,
       "orders": 30,
       "discount_ratio": 0.059086,
-      "revenue_change": 0.853649
+      "revenue_change": 0.853649,
+      "gross_revenue_change": 0.734095,
+      "gross_same_week_change": 0.673224,
+      "gross_vs_market_gap": 0.335918
     },
     {
       "province": "福建省",
@@ -1071,7 +1358,10 @@
       "diners": 61,
       "orders": 34,
       "discount_ratio": 0.145031,
-      "revenue_change": 0.209826
+      "revenue_change": 0.209826,
+      "gross_revenue_change": 0.096355,
+      "gross_same_week_change": -0.037398,
+      "gross_vs_market_gap": -0.374704
     },
     {
       "province": "海南省",
@@ -1082,7 +1372,10 @@
       "diners": 64,
       "orders": 21,
       "discount_ratio": 0.093579,
-      "revenue_change": -0.038011
+      "revenue_change": -0.038011,
+      "gross_revenue_change": -0.043982,
+      "gross_same_week_change": 1.678955,
+      "gross_vs_market_gap": 1.341649
     },
     {
       "province": "山东省",
@@ -1093,7 +1386,10 @@
       "diners": 70,
       "orders": 30,
       "discount_ratio": 0.317693,
-      "revenue_change": -0.000972
+      "revenue_change": -0.000972,
+      "gross_revenue_change": -0.068668,
+      "gross_same_week_change": 0.279359,
+      "gross_vs_market_gap": -0.057947
     },
     {
       "province": "甘肃省",
@@ -1104,7 +1400,10 @@
       "diners": 95,
       "orders": 27,
       "discount_ratio": 0.316482,
-      "revenue_change": -0.144119
+      "revenue_change": -0.144119,
+      "gross_revenue_change": -0.088745,
+      "gross_same_week_change": -0.203519,
+      "gross_vs_market_gap": -0.540825
     },
     {
       "province": "安徽省",
@@ -1115,7 +1414,10 @@
       "diners": 74,
       "orders": 23,
       "discount_ratio": 0.266525,
-      "revenue_change": 0.335564
+      "revenue_change": 0.335564,
+      "gross_revenue_change": 0.263058,
+      "gross_same_week_change": 0.923128,
+      "gross_vs_market_gap": 0.585822
     },
     {
       "province": "山东省",
@@ -1126,7 +1428,10 @@
       "diners": 76,
       "orders": 34,
       "discount_ratio": 0.09729,
-      "revenue_change": -0.111814
+      "revenue_change": -0.111814,
+      "gross_revenue_change": -0.133393,
+      "gross_same_week_change": -0.02888,
+      "gross_vs_market_gap": -0.366186
     },
     {
       "province": "山西省",
@@ -1137,7 +1442,10 @@
       "diners": 94,
       "orders": 31,
       "discount_ratio": 0.162569,
-      "revenue_change": -0.425947
+      "revenue_change": -0.425947,
+      "gross_revenue_change": -0.446861,
+      "gross_same_week_change": -0.441431,
+      "gross_vs_market_gap": -0.778737
     },
     {
       "province": "江苏省",
@@ -1148,7 +1456,10 @@
       "diners": 70,
       "orders": 47,
       "discount_ratio": 0.236925,
-      "revenue_change": -0.545052
+      "revenue_change": -0.545052,
+      "gross_revenue_change": -0.521139,
+      "gross_same_week_change": -0.080674,
+      "gross_vs_market_gap": -0.41798
     },
     {
       "province": "江苏省",
@@ -1159,7 +1470,10 @@
       "diners": 81,
       "orders": 26,
       "discount_ratio": 0.215395,
-      "revenue_change": -0.022625
+      "revenue_change": -0.022625,
+      "gross_revenue_change": -0.014798,
+      "gross_same_week_change": 1.077683,
+      "gross_vs_market_gap": 0.740377
     },
     {
       "province": "陕西省",
@@ -1170,7 +1484,10 @@
       "diners": 81,
       "orders": 27,
       "discount_ratio": 0.190417,
-      "revenue_change": -0.146045
+      "revenue_change": -0.146045,
+      "gross_revenue_change": -0.163278,
+      "gross_same_week_change": 0.04649,
+      "gross_vs_market_gap": -0.290816
     },
     {
       "province": "甘肃省",
@@ -1181,7 +1498,10 @@
       "diners": 52,
       "orders": 20,
       "discount_ratio": 0.218964,
-      "revenue_change": -0.226686
+      "revenue_change": -0.226686,
+      "gross_revenue_change": -0.215009,
+      "gross_same_week_change": 0.19383,
+      "gross_vs_market_gap": -0.143476
     },
     {
       "province": "宁夏回族自治区",
@@ -1192,7 +1512,10 @@
       "diners": 51,
       "orders": 19,
       "discount_ratio": 0.226135,
-      "revenue_change": 0.04238
+      "revenue_change": 0.04238,
+      "gross_revenue_change": 0.039563,
+      "gross_same_week_change": 0.054014,
+      "gross_vs_market_gap": -0.283292
     },
     {
       "province": "四川省",
@@ -1203,7 +1526,10 @@
       "diners": 54,
       "orders": 16,
       "discount_ratio": 0.008223,
-      "revenue_change": 1.052108
+      "revenue_change": 1.052108,
+      "gross_revenue_change": 1.062855,
+      "gross_same_week_change": 1.247525,
+      "gross_vs_market_gap": 0.910219
     },
     {
       "province": "湖南省",
@@ -1214,7 +1540,10 @@
       "diners": 70,
       "orders": 26,
       "discount_ratio": 0.073461,
-      "revenue_change": 0.175799
+      "revenue_change": 0.175799,
+      "gross_revenue_change": -0.013411,
+      "gross_same_week_change": -0.17559,
+      "gross_vs_market_gap": -0.512896
     },
     {
       "province": "江苏省",
@@ -1225,7 +1554,10 @@
       "diners": 42,
       "orders": 17,
       "discount_ratio": 0.134208,
-      "revenue_change": 0.41399
+      "revenue_change": 0.41399,
+      "gross_revenue_change": 0.348044,
+      "gross_same_week_change": 1.435886,
+      "gross_vs_market_gap": 1.09858
     },
     {
       "province": "山东省",
@@ -1236,7 +1568,10 @@
       "diners": 62,
       "orders": 22,
       "discount_ratio": 0.11647,
-      "revenue_change": -0.024419
+      "revenue_change": -0.024419,
+      "gross_revenue_change": -0.129084,
+      "gross_same_week_change": -0.093046,
+      "gross_vs_market_gap": -0.430352
     },
     {
       "province": "四川省",
@@ -1247,7 +1582,10 @@
       "diners": 50,
       "orders": 9,
       "discount_ratio": 0.264953,
-      "revenue_change": 0.029541
+      "revenue_change": 0.029541,
+      "gross_revenue_change": 0.158522,
+      "gross_same_week_change": 0.931496,
+      "gross_vs_market_gap": 0.59419
     },
     {
       "province": "陕西省",
@@ -1258,7 +1596,10 @@
       "diners": 58,
       "orders": 15,
       "discount_ratio": 0.129122,
-      "revenue_change": -0.061381
+      "revenue_change": -0.061381,
+      "gross_revenue_change": -0.033144,
+      "gross_same_week_change": 0.330308,
+      "gross_vs_market_gap": -0.006998
     },
     {
       "province": "河北省",
@@ -1269,7 +1610,10 @@
       "diners": 39,
       "orders": 16,
       "discount_ratio": 0.071687,
-      "revenue_change": -0.60639
+      "revenue_change": -0.60639,
+      "gross_revenue_change": -0.607886,
+      "gross_same_week_change": -0.532191,
+      "gross_vs_market_gap": -0.869497
     },
     {
       "province": "安徽省",
@@ -1280,7 +1624,10 @@
       "diners": 33,
       "orders": 11,
       "discount_ratio": 0.255542,
-      "revenue_change": -0.065154
+      "revenue_change": -0.065154,
+      "gross_revenue_change": -0.098102,
+      "gross_same_week_change": 5.831949,
+      "gross_vs_market_gap": 5.494643
     },
     {
       "province": "四川省",
@@ -1291,7 +1638,10 @@
       "diners": 57,
       "orders": 15,
       "discount_ratio": 0.02309,
-      "revenue_change": 0.223614
+      "revenue_change": 0.223614,
+      "gross_revenue_change": 0.214864,
+      "gross_same_week_change": -0.192115,
+      "gross_vs_market_gap": -0.529421
     },
     {
       "province": "湖南省",
@@ -1302,7 +1652,10 @@
       "diners": 56,
       "orders": 16,
       "discount_ratio": 0.141567,
-      "revenue_change": -0.13415
+      "revenue_change": -0.13415,
+      "gross_revenue_change": -0.173904,
+      "gross_same_week_change": -0.082403,
+      "gross_vs_market_gap": -0.419709
     },
     {
       "province": "青海省",
@@ -1313,7 +1666,10 @@
       "diners": 35,
       "orders": 16,
       "discount_ratio": 0.050977,
-      "revenue_change": -0.209256
+      "revenue_change": -0.209256,
+      "gross_revenue_change": -0.259515,
+      "gross_same_week_change": -0.310647,
+      "gross_vs_market_gap": -0.647953
     },
     {
       "province": "甘肃省",
@@ -1324,7 +1680,10 @@
       "diners": 41,
       "orders": 13,
       "discount_ratio": 0.209268,
-      "revenue_change": 0.407568
+      "revenue_change": 0.407568,
+      "gross_revenue_change": 0.330204,
+      "gross_same_week_change": -0.565455,
+      "gross_vs_market_gap": -0.902761
     },
     {
       "province": "湖南省",
@@ -1335,7 +1694,10 @@
       "diners": 38,
       "orders": 18,
       "discount_ratio": 0.087472,
-      "revenue_change": 0.969341
+      "revenue_change": 0.969341,
+      "gross_revenue_change": 0.877388,
+      "gross_same_week_change": 1.163843,
+      "gross_vs_market_gap": 0.826537
     },
     {
       "province": "四川省",
@@ -1346,7 +1708,10 @@
       "diners": 27,
       "orders": 8,
       "discount_ratio": 0.073494,
-      "revenue_change": -0.242618
+      "revenue_change": -0.242618,
+      "gross_revenue_change": -0.213769,
+      "gross_same_week_change": -0.099887,
+      "gross_vs_market_gap": -0.437193
     },
     {
       "province": "辽宁省",
@@ -1357,7 +1722,10 @@
       "diners": 19,
       "orders": 9,
       "discount_ratio": 0.113762,
-      "revenue_change": -0.076818
+      "revenue_change": -0.076818,
+      "gross_revenue_change": -0.030068,
+      "gross_same_week_change": -0.190186,
+      "gross_vs_market_gap": -0.527492
     },
     {
       "province": "河北省",
@@ -1368,7 +1736,10 @@
       "diners": 19,
       "orders": 6,
       "discount_ratio": 0.082068,
-      "revenue_change": -0.290072
+      "revenue_change": -0.290072,
+      "gross_revenue_change": -0.265233,
+      "gross_same_week_change": -0.349896,
+      "gross_vs_market_gap": -0.687202
     },
     {
       "province": "云南省",
@@ -1379,7 +1750,10 @@
       "diners": 17,
       "orders": 6,
       "discount_ratio": 0.022581,
-      "revenue_change": -0.205064
+      "revenue_change": -0.205064,
+      "gross_revenue_change": -0.186699,
+      "gross_same_week_change": 0.24,
+      "gross_vs_market_gap": -0.097306
     },
     {
       "province": "内蒙古自治区",
@@ -1390,7 +1764,10 @@
       "diners": 4,
       "orders": 2,
       "discount_ratio": 0.140975,
-      "revenue_change": -0.686792
+      "revenue_change": -0.686792,
+      "gross_revenue_change": -0.64959,
+      "gross_same_week_change": -0.706522,
+      "gross_vs_market_gap": -1.043828
     },
     {
       "province": "陕西省",
@@ -1401,7 +1778,10 @@
       "diners": 2,
       "orders": 1,
       "discount_ratio": 0.0,
-      "revenue_change": null
+      "revenue_change": null,
+      "gross_revenue_change": null,
+      "gross_same_week_change": -0.036082,
+      "gross_vs_market_gap": -0.373388
     }
   ],
   "stores": [
@@ -1419,6 +1799,9 @@
       "spend_per_order": 289.445455,
       "discount_ratio": 0.255542,
       "revenue_change": -0.065154,
+      "gross_revenue_change": -0.098102,
+      "gross_same_week_change": 5.831949,
+      "gross_vs_market_gap": 5.494643,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1437,6 +1820,9 @@
       "spend_per_order": 156.9,
       "discount_ratio": 0.003788,
       "revenue_change": 0.282282,
+      "gross_revenue_change": 0.287158,
+      "gross_same_week_change": 0.15744,
+      "gross_vs_market_gap": -0.179866,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1455,6 +1841,9 @@
       "spend_per_order": 247.505316,
       "discount_ratio": 0.135973,
       "revenue_change": 0.149715,
+      "gross_revenue_change": 0.147915,
+      "gross_same_week_change": 0.305979,
+      "gross_vs_market_gap": -0.031327,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1473,6 +1862,9 @@
       "spend_per_order": 309.204,
       "discount_ratio": 0.121305,
       "revenue_change": 0.202726,
+      "gross_revenue_change": 0.173162,
+      "gross_same_week_change": 0.059782,
+      "gross_vs_market_gap": -0.277524,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1491,6 +1883,9 @@
       "spend_per_order": 182.415556,
       "discount_ratio": 0.255176,
       "revenue_change": 0.185938,
+      "gross_revenue_change": 0.155302,
+      "gross_same_week_change": 3.721937,
+      "gross_vs_market_gap": 3.384631,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1509,6 +1904,9 @@
       "spend_per_order": 244.610405,
       "discount_ratio": 0.301545,
       "revenue_change": 0.043638,
+      "gross_revenue_change": 0.064312,
+      "gross_same_week_change": -0.104647,
+      "gross_vs_market_gap": -0.441953,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1527,6 +1925,9 @@
       "spend_per_order": 237.316667,
       "discount_ratio": 0.304211,
       "revenue_change": 0.431322,
+      "gross_revenue_change": 0.505853,
+      "gross_same_week_change": 0.67003,
+      "gross_vs_market_gap": 0.332724,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1545,6 +1946,9 @@
       "spend_per_order": 304.748611,
       "discount_ratio": 0.203445,
       "revenue_change": 0.456559,
+      "gross_revenue_change": 0.190612,
+      "gross_same_week_change": -0.038467,
+      "gross_vs_market_gap": -0.375773,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1563,6 +1967,9 @@
       "spend_per_order": 410.3,
       "discount_ratio": 0.041803,
       "revenue_change": 0.588648,
+      "gross_revenue_change": 0.506685,
+      "gross_same_week_change": 0.092905,
+      "gross_vs_market_gap": -0.244401,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1581,6 +1988,9 @@
       "spend_per_order": 420.320476,
       "discount_ratio": 0.093579,
       "revenue_change": -0.038011,
+      "gross_revenue_change": -0.043982,
+      "gross_same_week_change": 1.678955,
+      "gross_vs_market_gap": 1.341649,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1599,6 +2009,9 @@
       "spend_per_order": 263.420122,
       "discount_ratio": 0.298828,
       "revenue_change": -0.073284,
+      "gross_revenue_change": -0.072538,
+      "gross_same_week_change": 0.182153,
+      "gross_vs_market_gap": -0.155153,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1617,6 +2030,9 @@
       "spend_per_order": 247.042143,
       "discount_ratio": 0.282394,
       "revenue_change": 0.232438,
+      "gross_revenue_change": 0.207661,
+      "gross_same_week_change": 1.306482,
+      "gross_vs_market_gap": 0.969176,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1635,6 +2051,9 @@
       "spend_per_order": 226.223778,
       "discount_ratio": 0.472595,
       "revenue_change": 0.067893,
+      "gross_revenue_change": 0.003119,
+      "gross_same_week_change": 0.535179,
+      "gross_vs_market_gap": 0.197873,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1653,6 +2072,9 @@
       "spend_per_order": 236.191176,
       "discount_ratio": 0.090647,
       "revenue_change": -0.113064,
+      "gross_revenue_change": -0.098316,
+      "gross_same_week_change": 0.112805,
+      "gross_vs_market_gap": -0.224501,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1671,6 +2093,9 @@
       "spend_per_order": 264.856364,
       "discount_ratio": 0.073623,
       "revenue_change": -0.071373,
+      "gross_revenue_change": -0.10001,
+      "gross_same_week_change": 0.241987,
+      "gross_vs_market_gap": -0.095319,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1689,6 +2114,9 @@
       "spend_per_order": 222.093333,
       "discount_ratio": 0.121466,
       "revenue_change": 1.808938,
+      "gross_revenue_change": 1.438585,
+      "gross_same_week_change": 0.229971,
+      "gross_vs_market_gap": -0.107335,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1707,6 +2135,9 @@
       "spend_per_order": 245.131485,
       "discount_ratio": 0.256218,
       "revenue_change": 0.247083,
+      "gross_revenue_change": 0.331054,
+      "gross_same_week_change": 0.714764,
+      "gross_vs_market_gap": 0.377458,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1725,6 +2156,9 @@
       "spend_per_order": 180.844286,
       "discount_ratio": 0.277907,
       "revenue_change": 0.688806,
+      "gross_revenue_change": 0.736537,
+      "gross_same_week_change": 0.512897,
+      "gross_vs_market_gap": 0.175591,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1743,6 +2177,9 @@
       "spend_per_order": 230.820508,
       "discount_ratio": 0.28294,
       "revenue_change": 0.317709,
+      "gross_revenue_change": 0.270538,
+      "gross_same_week_change": 0.197553,
+      "gross_vs_market_gap": -0.139753,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1761,6 +2198,9 @@
       "spend_per_order": 206.976415,
       "discount_ratio": 0.301646,
       "revenue_change": 1.018688,
+      "gross_revenue_change": 0.876927,
+      "gross_same_week_change": 2.6011,
+      "gross_vs_market_gap": 2.263794,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1779,6 +2219,9 @@
       "spend_per_order": 229.556508,
       "discount_ratio": 0.314984,
       "revenue_change": 0.484759,
+      "gross_revenue_change": 0.520709,
+      "gross_same_week_change": 1.185281,
+      "gross_vs_market_gap": 0.847975,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1797,6 +2240,9 @@
       "spend_per_order": 215.54978,
       "discount_ratio": 0.301409,
       "revenue_change": 0.070696,
+      "gross_revenue_change": 0.106217,
+      "gross_same_week_change": 0.628277,
+      "gross_vs_market_gap": 0.290971,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1815,6 +2261,9 @@
       "spend_per_order": 219.666667,
       "discount_ratio": 0.136304,
       "revenue_change": -0.599635,
+      "gross_revenue_change": -0.555361,
+      "gross_same_week_change": -0.430597,
+      "gross_vs_market_gap": -0.767903,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1833,6 +2282,9 @@
       "spend_per_order": 204.633333,
       "discount_ratio": 0.101171,
       "revenue_change": 2.086476,
+      "gross_revenue_change": 1.851775,
+      "gross_same_week_change": 0.059736,
+      "gross_vs_market_gap": -0.27757,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1851,6 +2303,9 @@
       "spend_per_order": 278.108,
       "discount_ratio": 0.120468,
       "revenue_change": -0.003897,
+      "gross_revenue_change": -0.036328,
+      "gross_same_week_change": 1.286003,
+      "gross_vs_market_gap": 0.948697,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1869,6 +2324,9 @@
       "spend_per_order": 299.623077,
       "discount_ratio": 0.138199,
       "revenue_change": 0.21591,
+      "gross_revenue_change": 0.202079,
+      "gross_same_week_change": 0.61101,
+      "gross_vs_market_gap": 0.273704,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1887,6 +2345,9 @@
       "spend_per_order": 259.94,
       "discount_ratio": 0.078638,
       "revenue_change": -0.167847,
+      "gross_revenue_change": -0.185235,
+      "gross_same_week_change": 0.479538,
+      "gross_vs_market_gap": 0.142232,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1905,6 +2366,9 @@
       "spend_per_order": 258.191429,
       "discount_ratio": 0.337033,
       "revenue_change": 0.204572,
+      "gross_revenue_change": 0.05341,
+      "gross_same_week_change": 0.227991,
+      "gross_vs_market_gap": -0.109315,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1923,6 +2387,9 @@
       "spend_per_order": 242.746,
       "discount_ratio": 0.161841,
       "revenue_change": 0.378562,
+      "gross_revenue_change": 0.342407,
+      "gross_same_week_change": 0.057562,
+      "gross_vs_market_gap": -0.279744,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1941,6 +2408,9 @@
       "spend_per_order": 200.484082,
       "discount_ratio": 0.281944,
       "revenue_change": 0.099465,
+      "gross_revenue_change": 0.139419,
+      "gross_same_week_change": -0.03804,
+      "gross_vs_market_gap": -0.375346,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1959,6 +2429,9 @@
       "spend_per_order": 289.382308,
       "discount_ratio": 0.131987,
       "revenue_change": 0.920362,
+      "gross_revenue_change": 0.903382,
+      "gross_same_week_change": 2.657384,
+      "gross_vs_market_gap": 2.320078,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1977,6 +2450,9 @@
       "spend_per_order": 255.879817,
       "discount_ratio": 0.262497,
       "revenue_change": 0.011056,
+      "gross_revenue_change": 0.002704,
+      "gross_same_week_change": 0.092437,
+      "gross_vs_market_gap": -0.244869,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -1995,6 +2471,9 @@
       "spend_per_order": 285.853488,
       "discount_ratio": 0.23268,
       "revenue_change": -0.042538,
+      "gross_revenue_change": -0.08547,
+      "gross_same_week_change": -0.214181,
+      "gross_vs_market_gap": -0.551487,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2013,6 +2492,9 @@
       "spend_per_order": 219.899792,
       "discount_ratio": 0.195022,
       "revenue_change": -0.357589,
+      "gross_revenue_change": -0.233283,
+      "gross_same_week_change": 0.146871,
+      "gross_vs_market_gap": -0.190435,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2031,6 +2513,9 @@
       "spend_per_order": 211.206316,
       "discount_ratio": 0.179848,
       "revenue_change": 0.034957,
+      "gross_revenue_change": 0.048943,
+      "gross_same_week_change": 0.204436,
+      "gross_vs_market_gap": -0.13287,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2049,6 +2534,9 @@
       "spend_per_order": 332.5,
       "discount_ratio": 0.073494,
       "revenue_change": -0.242618,
+      "gross_revenue_change": -0.213769,
+      "gross_same_week_change": -0.099887,
+      "gross_vs_market_gap": -0.437193,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2067,6 +2555,9 @@
       "spend_per_order": 197.729688,
       "discount_ratio": 0.24148,
       "revenue_change": 0.309571,
+      "gross_revenue_change": 0.349779,
+      "gross_same_week_change": 0.07891,
+      "gross_vs_market_gap": -0.258396,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2085,6 +2576,9 @@
       "spend_per_order": 237.175862,
       "discount_ratio": 0.345255,
       "revenue_change": -0.024701,
+      "gross_revenue_change": -0.047338,
+      "gross_same_week_change": 0.287062,
+      "gross_vs_market_gap": -0.050244,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2103,6 +2597,9 @@
       "spend_per_order": 271.534805,
       "discount_ratio": 0.084322,
       "revenue_change": 0.03887,
+      "gross_revenue_change": 0.049153,
+      "gross_same_week_change": 0.177412,
+      "gross_vs_market_gap": -0.159894,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2121,6 +2618,9 @@
       "spend_per_order": 395.797179,
       "discount_ratio": 0.090454,
       "revenue_change": 0.359371,
+      "gross_revenue_change": 0.355311,
+      "gross_same_week_change": 0.029294,
+      "gross_vs_market_gap": -0.308012,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2139,6 +2639,9 @@
       "spend_per_order": 106.813309,
       "discount_ratio": 0.20775,
       "revenue_change": 0.079559,
+      "gross_revenue_change": 0.059691,
+      "gross_same_week_change": -0.104966,
+      "gross_vs_market_gap": -0.442272,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2157,6 +2660,9 @@
       "spend_per_order": 310.277778,
       "discount_ratio": 0.076081,
       "revenue_change": -0.02905,
+      "gross_revenue_change": -0.035008,
+      "gross_same_week_change": 0.471405,
+      "gross_vs_market_gap": 0.134099,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2175,6 +2681,9 @@
       "spend_per_order": 170.297021,
       "discount_ratio": 0.149405,
       "revenue_change": -0.164506,
+      "gross_revenue_change": -0.209549,
+      "gross_same_week_change": 0.218875,
+      "gross_vs_market_gap": -0.118431,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2193,6 +2702,9 @@
       "spend_per_order": 263.837846,
       "discount_ratio": 0.105,
       "revenue_change": 0.489418,
+      "gross_revenue_change": 0.417893,
+      "gross_same_week_change": 0.81573,
+      "gross_vs_market_gap": 0.478424,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2211,6 +2723,9 @@
       "spend_per_order": 134.046735,
       "discount_ratio": 0.20785,
       "revenue_change": -0.059577,
+      "gross_revenue_change": -0.046035,
+      "gross_same_week_change": 0.294099,
+      "gross_vs_market_gap": -0.043207,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2229,6 +2744,9 @@
       "spend_per_order": 323.848696,
       "discount_ratio": 0.039111,
       "revenue_change": 0.308574,
+      "gross_revenue_change": 0.235981,
+      "gross_same_week_change": -0.011212,
+      "gross_vs_market_gap": -0.348518,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2247,6 +2765,9 @@
       "spend_per_order": 334.331343,
       "discount_ratio": 0.188163,
       "revenue_change": 0.353393,
+      "gross_revenue_change": 0.148843,
+      "gross_same_week_change": -0.022091,
+      "gross_vs_market_gap": -0.359397,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2265,6 +2786,9 @@
       "spend_per_order": 258.781667,
       "discount_ratio": 0.261219,
       "revenue_change": 0.455574,
+      "gross_revenue_change": 0.44408,
+      "gross_same_week_change": 0.394122,
+      "gross_vs_market_gap": 0.056816,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2283,6 +2807,9 @@
       "spend_per_order": 228.694286,
       "discount_ratio": 0.226918,
       "revenue_change": 0.147368,
+      "gross_revenue_change": 0.171275,
+      "gross_same_week_change": 0.21134,
+      "gross_vs_market_gap": -0.125966,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2301,6 +2828,9 @@
       "spend_per_order": 244.853846,
       "discount_ratio": 0.079017,
       "revenue_change": 0.236463,
+      "gross_revenue_change": 0.204167,
+      "gross_same_week_change": 0.73757,
+      "gross_vs_market_gap": 0.400264,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2319,6 +2849,9 @@
       "spend_per_order": 243.58875,
       "discount_ratio": 0.150593,
       "revenue_change": -0.066895,
+      "gross_revenue_change": -0.074957,
+      "gross_same_week_change": -0.483067,
+      "gross_vs_market_gap": -0.820373,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2337,6 +2870,9 @@
       "spend_per_order": 243.568696,
       "discount_ratio": 0.133717,
       "revenue_change": 0.517973,
+      "gross_revenue_change": 0.497846,
+      "gross_same_week_change": -0.003621,
+      "gross_vs_market_gap": -0.340927,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2355,6 +2891,9 @@
       "spend_per_order": 306.066765,
       "discount_ratio": 0.088013,
       "revenue_change": -0.031334,
+      "gross_revenue_change": -0.091842,
+      "gross_same_week_change": 0.293442,
+      "gross_vs_market_gap": -0.043864,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2373,6 +2912,9 @@
       "spend_per_order": 270.885625,
       "discount_ratio": 0.165639,
       "revenue_change": -0.104196,
+      "gross_revenue_change": -0.034569,
+      "gross_same_week_change": 0.873008,
+      "gross_vs_market_gap": 0.535702,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2391,6 +2933,9 @@
       "spend_per_order": 193.656857,
       "discount_ratio": 0.29007,
       "revenue_change": 0.041134,
+      "gross_revenue_change": 0.181317,
+      "gross_same_week_change": 0.660504,
+      "gross_vs_market_gap": 0.323198,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2409,6 +2954,9 @@
       "spend_per_order": 313.005517,
       "discount_ratio": 0.105804,
       "revenue_change": -0.133548,
+      "gross_revenue_change": -0.16719,
+      "gross_same_week_change": 0.879365,
+      "gross_vs_market_gap": 0.542059,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2427,6 +2975,9 @@
       "spend_per_order": 337.935593,
       "discount_ratio": 0.167396,
       "revenue_change": 0.503658,
+      "gross_revenue_change": 0.382259,
+      "gross_same_week_change": 0.477614,
+      "gross_vs_market_gap": 0.140308,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2445,6 +2996,9 @@
       "spend_per_order": 165.796667,
       "discount_ratio": 0.087472,
       "revenue_change": 0.969341,
+      "gross_revenue_change": 0.877388,
+      "gross_same_week_change": 1.163843,
+      "gross_vs_market_gap": 0.826537,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2463,6 +3017,9 @@
       "spend_per_order": 287.571831,
       "discount_ratio": 0.144415,
       "revenue_change": 0.14774,
+      "gross_revenue_change": 0.122014,
+      "gross_same_week_change": 0.661843,
+      "gross_vs_market_gap": 0.324537,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2481,6 +3038,9 @@
       "spend_per_order": 276.83913,
       "discount_ratio": 0.266525,
       "revenue_change": 0.335564,
+      "gross_revenue_change": 0.263058,
+      "gross_same_week_change": 0.923128,
+      "gross_vs_market_gap": 0.585822,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2499,6 +3059,9 @@
       "spend_per_order": 309.466667,
       "discount_ratio": 0.059086,
       "revenue_change": 0.853649,
+      "gross_revenue_change": 0.734095,
+      "gross_same_week_change": 0.673224,
+      "gross_vs_market_gap": 0.335918,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2517,6 +3080,9 @@
       "spend_per_order": 227.836364,
       "discount_ratio": 0.247395,
       "revenue_change": 0.456641,
+      "gross_revenue_change": 0.430836,
+      "gross_same_week_change": 0.377033,
+      "gross_vs_market_gap": 0.039727,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2535,6 +3101,9 @@
       "spend_per_order": 225.157,
       "discount_ratio": 0.218964,
       "revenue_change": -0.226686,
+      "gross_revenue_change": -0.215009,
+      "gross_same_week_change": 0.19383,
+      "gross_vs_market_gap": -0.143476,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2553,6 +3122,9 @@
       "spend_per_order": 203.407143,
       "discount_ratio": 0.063913,
       "revenue_change": 0.885103,
+      "gross_revenue_change": 0.822291,
+      "gross_same_week_change": 0.490536,
+      "gross_vs_market_gap": 0.15323,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2571,6 +3143,9 @@
       "spend_per_order": 239.10625,
       "discount_ratio": 0.050977,
       "revenue_change": -0.209256,
+      "gross_revenue_change": -0.259515,
+      "gross_same_week_change": -0.310647,
+      "gross_vs_market_gap": -0.647953,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2589,6 +3164,9 @@
       "spend_per_order": 119.778788,
       "discount_ratio": 0.972007,
       "revenue_change": 0.625388,
+      "gross_revenue_change": 42.651756,
+      "gross_same_week_change": 27.876807,
+      "gross_vs_market_gap": 27.539501,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2607,6 +3185,9 @@
       "spend_per_order": 331.602941,
       "discount_ratio": 0.196057,
       "revenue_change": -0.209329,
+      "gross_revenue_change": -0.209559,
+      "gross_same_week_change": 0.987528,
+      "gross_vs_market_gap": 0.650222,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2625,6 +3206,9 @@
       "spend_per_order": 231.684615,
       "discount_ratio": 0.209268,
       "revenue_change": 0.407568,
+      "gross_revenue_change": 0.330204,
+      "gross_same_week_change": -0.565455,
+      "gross_vs_market_gap": -0.902761,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2643,6 +3227,9 @@
       "spend_per_order": 248.294118,
       "discount_ratio": 0.040522,
       "revenue_change": 0.565072,
+      "gross_revenue_change": 0.54911,
+      "gross_same_week_change": 0.251664,
+      "gross_vs_market_gap": -0.085642,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2661,6 +3248,9 @@
       "spend_per_order": 257.284286,
       "discount_ratio": 0.193827,
       "revenue_change": 0.654698,
+      "gross_revenue_change": 0.597997,
+      "gross_same_week_change": 0.072234,
+      "gross_vs_market_gap": -0.265072,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2679,6 +3269,9 @@
       "spend_per_order": 169.455714,
       "discount_ratio": 0.230412,
       "revenue_change": 0.250328,
+      "gross_revenue_change": 0.24368,
+      "gross_same_week_change": 0.414715,
+      "gross_vs_market_gap": 0.077409,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2697,6 +3290,9 @@
       "spend_per_order": 303.35,
       "discount_ratio": 0.066649,
       "revenue_change": 0.05195,
+      "gross_revenue_change": 0.032615,
+      "gross_same_week_change": 1.500311,
+      "gross_vs_market_gap": 1.163005,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2715,6 +3311,9 @@
       "spend_per_order": 270.242424,
       "discount_ratio": 0.080239,
       "revenue_change": -0.025707,
+      "gross_revenue_change": -0.051615,
+      "gross_same_week_change": 0.165301,
+      "gross_vs_market_gap": -0.172005,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2733,6 +3332,9 @@
       "spend_per_order": 237.128684,
       "discount_ratio": 0.214874,
       "revenue_change": 0.55505,
+      "gross_revenue_change": 0.318589,
+      "gross_same_week_change": 0.245064,
+      "gross_vs_market_gap": -0.092242,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2751,6 +3353,9 @@
       "spend_per_order": 267.222222,
       "discount_ratio": 0.017164,
       "revenue_change": 0.927701,
+      "gross_revenue_change": 0.389551,
+      "gross_same_week_change": -0.469428,
+      "gross_vs_market_gap": -0.806734,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2769,6 +3374,9 @@
       "spend_per_order": 220.34,
       "discount_ratio": 0.140975,
       "revenue_change": -0.686792,
+      "gross_revenue_change": -0.64959,
+      "gross_same_week_change": -0.706522,
+      "gross_vs_market_gap": -1.043828,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2787,6 +3395,9 @@
       "spend_per_order": 232.236842,
       "discount_ratio": 0.226135,
       "revenue_change": 0.04238,
+      "gross_revenue_change": 0.039563,
+      "gross_same_week_change": 0.054014,
+      "gross_vs_market_gap": -0.283292,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2805,6 +3416,9 @@
       "spend_per_order": 247.121176,
       "discount_ratio": 0.145031,
       "revenue_change": 0.209826,
+      "gross_revenue_change": 0.096355,
+      "gross_same_week_change": -0.037398,
+      "gross_vs_market_gap": -0.374704,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2823,6 +3437,9 @@
       "spend_per_order": 315.920667,
       "discount_ratio": 0.141968,
       "revenue_change": 0.512113,
+      "gross_revenue_change": 0.400126,
+      "gross_same_week_change": 0.146949,
+      "gross_vs_market_gap": -0.190357,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2841,6 +3458,9 @@
       "spend_per_order": 260.577429,
       "discount_ratio": 0.084546,
       "revenue_change": -0.063259,
+      "gross_revenue_change": -0.103156,
+      "gross_same_week_change": 0.453149,
+      "gross_vs_market_gap": 0.115843,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2859,6 +3479,9 @@
       "spend_per_order": 259.414894,
       "discount_ratio": 0.199484,
       "revenue_change": 0.166657,
+      "gross_revenue_change": 0.12171,
+      "gross_same_week_change": 0.333508,
+      "gross_vs_market_gap": -0.003798,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2877,6 +3500,9 @@
       "spend_per_order": 196.474,
       "discount_ratio": 0.371518,
       "revenue_change": 0.338619,
+      "gross_revenue_change": 0.27427,
+      "gross_same_week_change": 0.149974,
+      "gross_vs_market_gap": -0.187332,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2895,6 +3521,9 @@
       "spend_per_order": 238.611111,
       "discount_ratio": 0.070266,
       "revenue_change": -0.254858,
+      "gross_revenue_change": -0.365892,
+      "gross_same_week_change": -0.43498,
+      "gross_vs_market_gap": -0.772286,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2913,6 +3542,9 @@
       "spend_per_order": 227.513871,
       "discount_ratio": 0.162569,
       "revenue_change": -0.425947,
+      "gross_revenue_change": -0.446861,
+      "gross_same_week_change": -0.441431,
+      "gross_vs_market_gap": -0.778737,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2931,6 +3563,9 @@
       "spend_per_order": 285.188889,
       "discount_ratio": 0.127121,
       "revenue_change": 0.034056,
+      "gross_revenue_change": -0.001517,
+      "gross_same_week_change": 0.746417,
+      "gross_vs_market_gap": 0.409111,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2949,6 +3584,9 @@
       "spend_per_order": 323.555556,
       "discount_ratio": 0.179256,
       "revenue_change": 0.303468,
+      "gross_revenue_change": 0.320923,
+      "gross_same_week_change": 0.363043,
+      "gross_vs_market_gap": 0.025737,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2967,6 +3605,9 @@
       "spend_per_order": 278.975,
       "discount_ratio": 0.227484,
       "revenue_change": 0.788254,
+      "gross_revenue_change": 0.777846,
+      "gross_same_week_change": 4.932238,
+      "gross_vs_market_gap": 4.594932,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -2985,6 +3626,9 @@
       "spend_per_order": 191.068571,
       "discount_ratio": 0.346155,
       "revenue_change": -0.17446,
+      "gross_revenue_change": -0.182293,
+      "gross_same_week_change": -0.363539,
+      "gross_vs_market_gap": -0.700845,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3003,6 +3647,9 @@
       "spend_per_order": 247.538462,
       "discount_ratio": 0.270708,
       "revenue_change": 1.976873,
+      "gross_revenue_change": 1.817688,
+      "gross_same_week_change": 0.11469,
+      "gross_vs_market_gap": -0.222616,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3021,6 +3668,9 @@
       "spend_per_order": 288.359375,
       "discount_ratio": 0.12519,
       "revenue_change": -0.059302,
+      "gross_revenue_change": -0.068058,
+      "gross_same_week_change": 0.216777,
+      "gross_vs_market_gap": -0.120529,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3039,6 +3689,9 @@
       "spend_per_order": 266.950946,
       "discount_ratio": 0.136232,
       "revenue_change": 0.337118,
+      "gross_revenue_change": 0.224042,
+      "gross_same_week_change": -0.00444,
+      "gross_vs_market_gap": -0.341746,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3057,6 +3710,9 @@
       "spend_per_order": 258.362126,
       "discount_ratio": 0.097068,
       "revenue_change": 0.372209,
+      "gross_revenue_change": 0.304526,
+      "gross_same_week_change": 1.035438,
+      "gross_vs_market_gap": 0.698132,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3075,6 +3731,9 @@
       "spend_per_order": 48.887202,
       "discount_ratio": 0.468409,
       "revenue_change": 0.725368,
+      "gross_revenue_change": 0.468767,
+      "gross_same_week_change": -0.016181,
+      "gross_vs_market_gap": -0.353487,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3093,6 +3752,9 @@
       "spend_per_order": 362.2,
       "discount_ratio": 0.008622,
       "revenue_change": -0.194574,
+      "gross_revenue_change": -0.219504,
+      "gross_same_week_change": 0.955312,
+      "gross_vs_market_gap": 0.618006,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3111,6 +3773,9 @@
       "spend_per_order": 277.64,
       "discount_ratio": 0.07709,
       "revenue_change": 0.015682,
+      "gross_revenue_change": -0.060275,
+      "gross_same_week_change": 0.143661,
+      "gross_vs_market_gap": -0.193645,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3129,6 +3794,9 @@
       "spend_per_order": 215.190208,
       "discount_ratio": 0.254376,
       "revenue_change": 0.7172,
+      "gross_revenue_change": 0.707506,
+      "gross_same_week_change": 0.468568,
+      "gross_vs_market_gap": 0.131262,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3147,6 +3815,9 @@
       "spend_per_order": 321.002055,
       "discount_ratio": 0.324245,
       "revenue_change": 0.470615,
+      "gross_revenue_change": 0.410064,
+      "gross_same_week_change": 0.188892,
+      "gross_vs_market_gap": -0.148414,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3165,6 +3836,9 @@
       "spend_per_order": 273.41284,
       "discount_ratio": 0.194177,
       "revenue_change": 0.846762,
+      "gross_revenue_change": 0.78728,
+      "gross_same_week_change": 1.585175,
+      "gross_vs_market_gap": 1.247869,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3183,6 +3857,9 @@
       "spend_per_order": 372.973171,
       "discount_ratio": 0.131191,
       "revenue_change": 0.02535,
+      "gross_revenue_change": -0.014281,
+      "gross_same_week_change": 0.156211,
+      "gross_vs_market_gap": -0.181095,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3201,6 +3878,9 @@
       "spend_per_order": 273.6,
       "discount_ratio": 0.02309,
       "revenue_change": 0.223614,
+      "gross_revenue_change": 0.214864,
+      "gross_same_week_change": -0.192115,
+      "gross_vs_market_gap": -0.529421,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3219,6 +3899,9 @@
       "spend_per_order": 258.833333,
       "discount_ratio": 0.245017,
       "revenue_change": -0.25487,
+      "gross_revenue_change": -0.244784,
+      "gross_same_week_change": 0.345324,
+      "gross_vs_market_gap": 0.008018,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3237,6 +3920,9 @@
       "spend_per_order": 312.172093,
       "discount_ratio": 0.119257,
       "revenue_change": -0.054741,
+      "gross_revenue_change": -0.098912,
+      "gross_same_week_change": 0.084614,
+      "gross_vs_market_gap": -0.252692,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3255,6 +3941,9 @@
       "spend_per_order": 232.276923,
       "discount_ratio": 0.210139,
       "revenue_change": 0.430446,
+      "gross_revenue_change": 0.317464,
+      "gross_same_week_change": 1.334626,
+      "gross_vs_market_gap": 0.99732,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3273,6 +3962,9 @@
       "spend_per_order": 108.917632,
       "discount_ratio": 0.280884,
       "revenue_change": -0.570907,
+      "gross_revenue_change": -0.538711,
+      "gross_same_week_change": 0.038243,
+      "gross_vs_market_gap": -0.299063,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3291,6 +3983,9 @@
       "spend_per_order": 251.804082,
       "discount_ratio": 0.09919,
       "revenue_change": 0.278909,
+      "gross_revenue_change": 0.184964,
+      "gross_same_week_change": 0.478838,
+      "gross_vs_market_gap": 0.141532,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3309,6 +4004,9 @@
       "spend_per_order": 265.230233,
       "discount_ratio": 0.102316,
       "revenue_change": 0.394413,
+      "gross_revenue_change": 0.391865,
+      "gross_same_week_change": 0.624177,
+      "gross_vs_market_gap": 0.286871,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3327,6 +4025,9 @@
       "spend_per_order": 127.287049,
       "discount_ratio": 0.611631,
       "revenue_change": 0.544709,
+      "gross_revenue_change": 0.792973,
+      "gross_same_week_change": 0.659287,
+      "gross_vs_market_gap": 0.321981,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3345,6 +4046,9 @@
       "spend_per_order": 244.25,
       "discount_ratio": 0.34283,
       "revenue_change": -0.196277,
+      "gross_revenue_change": -0.143514,
+      "gross_same_week_change": 0.397889,
+      "gross_vs_market_gap": 0.060583,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3363,6 +4067,9 @@
       "spend_per_order": 220.580769,
       "discount_ratio": 0.155087,
       "revenue_change": 0.134899,
+      "gross_revenue_change": 0.052894,
+      "gross_same_week_change": 0.384164,
+      "gross_vs_market_gap": 0.046858,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3381,6 +4088,9 @@
       "spend_per_order": 261.040714,
       "discount_ratio": 0.038144,
       "revenue_change": 0.063581,
+      "gross_revenue_change": 0.089306,
+      "gross_same_week_change": 0.033596,
+      "gross_vs_market_gap": -0.30371,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3399,6 +4109,9 @@
       "spend_per_order": 280.720732,
       "discount_ratio": 0.115208,
       "revenue_change": 0.41855,
+      "gross_revenue_change": 0.365497,
+      "gross_same_week_change": 0.171324,
+      "gross_vs_market_gap": -0.165982,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3417,6 +4130,9 @@
       "spend_per_order": 220.45625,
       "discount_ratio": 0.141567,
       "revenue_change": -0.13415,
+      "gross_revenue_change": -0.173904,
+      "gross_same_week_change": -0.082403,
+      "gross_vs_market_gap": -0.419709,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3435,6 +4151,9 @@
       "spend_per_order": 276.573333,
       "discount_ratio": 0.129122,
       "revenue_change": -0.061381,
+      "gross_revenue_change": -0.033144,
+      "gross_same_week_change": 0.330308,
+      "gross_vs_market_gap": -0.006998,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3453,6 +4172,9 @@
       "spend_per_order": 229.74037,
       "discount_ratio": 0.316482,
       "revenue_change": -0.144119,
+      "gross_revenue_change": -0.088745,
+      "gross_same_week_change": -0.203519,
+      "gross_vs_market_gap": -0.540825,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3471,6 +4193,9 @@
       "spend_per_order": 278.234091,
       "discount_ratio": 0.217944,
       "revenue_change": 0.805436,
+      "gross_revenue_change": 0.728196,
+      "gross_same_week_change": -0.022907,
+      "gross_vs_market_gap": -0.360213,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3489,6 +4214,9 @@
       "spend_per_order": 202.932222,
       "discount_ratio": 0.11422,
       "revenue_change": -0.473104,
+      "gross_revenue_change": -0.464163,
+      "gross_same_week_change": -0.303389,
+      "gross_vs_market_gap": -0.640695,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3507,6 +4235,9 @@
       "spend_per_order": 204.329266,
       "discount_ratio": 0.29144,
       "revenue_change": -0.270289,
+      "gross_revenue_change": -0.226934,
+      "gross_same_week_change": -0.173235,
+      "gross_vs_market_gap": -0.510541,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3525,6 +4256,9 @@
       "spend_per_order": 354.023077,
       "discount_ratio": 0.096685,
       "revenue_change": 0.332918,
+      "gross_revenue_change": 0.254037,
+      "gross_same_week_change": 0.824168,
+      "gross_vs_market_gap": 0.486862,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3543,6 +4277,9 @@
       "spend_per_order": 234.868462,
       "discount_ratio": 0.215395,
       "revenue_change": -0.022625,
+      "gross_revenue_change": -0.014798,
+      "gross_same_week_change": 1.077683,
+      "gross_vs_market_gap": 0.740377,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3561,6 +4298,9 @@
       "spend_per_order": 310.4425,
       "discount_ratio": 0.128399,
       "revenue_change": 4.196125,
+      "gross_revenue_change": 4.249834,
+      "gross_same_week_change": 1.574309,
+      "gross_vs_market_gap": 1.237003,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3579,6 +4319,9 @@
       "spend_per_order": 197.219231,
       "discount_ratio": 0.086948,
       "revenue_change": -0.457317,
+      "gross_revenue_change": -0.451509,
+      "gross_same_week_change": -0.157642,
+      "gross_vs_market_gap": -0.494948,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3597,6 +4340,9 @@
       "spend_per_order": 189.247586,
       "discount_ratio": 0.239148,
       "revenue_change": 0.669459,
+      "gross_revenue_change": 0.634275,
+      "gross_same_week_change": 1.368478,
+      "gross_vs_market_gap": 1.031172,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3615,6 +4361,9 @@
       "spend_per_order": 268.778684,
       "discount_ratio": 0.074244,
       "revenue_change": 2.094465,
+      "gross_revenue_change": 2.230091,
+      "gross_same_week_change": 0.404223,
+      "gross_vs_market_gap": 0.066917,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3633,6 +4382,9 @@
       "spend_per_order": 288.343182,
       "discount_ratio": 0.047994,
       "revenue_change": -0.041007,
+      "gross_revenue_change": -0.041148,
+      "gross_same_week_change": 0.489916,
+      "gross_vs_market_gap": 0.15261,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3651,6 +4403,9 @@
       "spend_per_order": 226.773913,
       "discount_ratio": 0.154377,
       "revenue_change": 0.078581,
+      "gross_revenue_change": 0.144809,
+      "gross_same_week_change": 0.283984,
+      "gross_vs_market_gap": -0.053322,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3669,6 +4424,9 @@
       "spend_per_order": 305.090244,
       "discount_ratio": 0.203911,
       "revenue_change": 0.085438,
+      "gross_revenue_change": 0.017899,
+      "gross_same_week_change": 1.557905,
+      "gross_vs_market_gap": 1.220599,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3687,6 +4445,9 @@
       "spend_per_order": 239.390962,
       "discount_ratio": 0.3103,
       "revenue_change": 0.353742,
+      "gross_revenue_change": 0.331442,
+      "gross_same_week_change": 0.408222,
+      "gross_vs_market_gap": 0.070916,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3705,6 +4466,9 @@
       "spend_per_order": 273.794118,
       "discount_ratio": 0.134208,
       "revenue_change": 0.41399,
+      "gross_revenue_change": 0.348044,
+      "gross_same_week_change": 1.435886,
+      "gross_vs_market_gap": 1.09858,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3723,6 +4487,9 @@
       "spend_per_order": 285.32,
       "discount_ratio": 0.061946,
       "revenue_change": 0.665177,
+      "gross_revenue_change": 0.667324,
+      "gross_same_week_change": 1.18808,
+      "gross_vs_market_gap": 0.850774,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3741,6 +4508,9 @@
       "spend_per_order": 189.796296,
       "discount_ratio": 0.190417,
       "revenue_change": -0.146045,
+      "gross_revenue_change": -0.163278,
+      "gross_same_week_change": 0.04649,
+      "gross_vs_market_gap": -0.290816,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3759,6 +4529,9 @@
       "spend_per_order": 302.835918,
       "discount_ratio": 0.045087,
       "revenue_change": -0.007071,
+      "gross_revenue_change": -0.043858,
+      "gross_same_week_change": 0.261372,
+      "gross_vs_market_gap": -0.075934,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3777,6 +4550,9 @@
       "spend_per_order": 225.958824,
       "discount_ratio": 0.09729,
       "revenue_change": -0.111814,
+      "gross_revenue_change": -0.133393,
+      "gross_same_week_change": -0.02888,
+      "gross_vs_market_gap": -0.366186,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3795,6 +4571,9 @@
       "spend_per_order": 171.340968,
       "discount_ratio": 0.196243,
       "revenue_change": 0.638913,
+      "gross_revenue_change": 0.583248,
+      "gross_same_week_change": -0.022887,
+      "gross_vs_market_gap": -0.360193,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3813,6 +4592,9 @@
       "spend_per_order": 202.408442,
       "discount_ratio": 0.291619,
       "revenue_change": 0.103899,
+      "gross_revenue_change": 0.131473,
+      "gross_same_week_change": -0.023588,
+      "gross_vs_market_gap": -0.360894,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3831,6 +4613,9 @@
       "spend_per_order": 251.772,
       "discount_ratio": 0.237393,
       "revenue_change": 0.51406,
+      "gross_revenue_change": 0.422065,
+      "gross_same_week_change": 0.23805,
+      "gross_vs_market_gap": -0.099256,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3849,6 +4634,9 @@
       "spend_per_order": 260.742667,
       "discount_ratio": 0.209272,
       "revenue_change": 0.368333,
+      "gross_revenue_change": 0.204273,
+      "gross_same_week_change": -0.208727,
+      "gross_vs_market_gap": -0.546033,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3867,6 +4655,9 @@
       "spend_per_order": 232.393548,
       "discount_ratio": 0.106943,
       "revenue_change": -0.024403,
+      "gross_revenue_change": -0.086028,
+      "gross_same_week_change": 0.179078,
+      "gross_vs_market_gap": -0.158228,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3885,6 +4676,9 @@
       "spend_per_order": 251.447368,
       "discount_ratio": 0.247021,
       "revenue_change": 0.150927,
+      "gross_revenue_change": 0.196906,
+      "gross_same_week_change": 0.012931,
+      "gross_vs_market_gap": -0.324375,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3903,6 +4697,9 @@
       "spend_per_order": 307.1,
       "discount_ratio": 0.077224,
       "revenue_change": -0.011587,
+      "gross_revenue_change": -0.014802,
+      "gross_same_week_change": 0.996401,
+      "gross_vs_market_gap": 0.659095,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3921,6 +4718,9 @@
       "spend_per_order": 287.117647,
       "discount_ratio": 0.030008,
       "revenue_change": -0.316559,
+      "gross_revenue_change": -0.320918,
+      "gross_same_week_change": -0.45939,
+      "gross_vs_market_gap": -0.796696,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3939,6 +4739,9 @@
       "spend_per_order": 277.371429,
       "discount_ratio": 0.029362,
       "revenue_change": 0.82025,
+      "gross_revenue_change": 0.601975,
+      "gross_same_week_change": 0.578795,
+      "gross_vs_market_gap": 0.241489,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3957,6 +4760,9 @@
       "spend_per_order": 217.15,
       "discount_ratio": 0.022581,
       "revenue_change": -0.205064,
+      "gross_revenue_change": -0.186699,
+      "gross_same_week_change": 0.24,
+      "gross_vs_market_gap": -0.097306,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3975,6 +4781,9 @@
       "spend_per_order": 251.814906,
       "discount_ratio": 0.226881,
       "revenue_change": -0.239199,
+      "gross_revenue_change": -0.24008,
+      "gross_same_week_change": 0.3387,
+      "gross_vs_market_gap": 0.001394,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -3993,6 +4802,9 @@
       "spend_per_order": 316.765385,
       "discount_ratio": 0.063251,
       "revenue_change": 0.061546,
+      "gross_revenue_change": 0.063608,
+      "gross_same_week_change": 0.486089,
+      "gross_vs_market_gap": 0.148783,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4011,6 +4823,9 @@
       "spend_per_order": 279.380702,
       "discount_ratio": 0.100858,
       "revenue_change": 0.490028,
+      "gross_revenue_change": 0.541025,
+      "gross_same_week_change": 0.327562,
+      "gross_vs_market_gap": -0.009744,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4029,6 +4844,9 @@
       "spend_per_order": 288.111538,
       "discount_ratio": 0.159525,
       "revenue_change": -0.000787,
+      "gross_revenue_change": -0.06151,
+      "gross_same_week_change": 0.395455,
+      "gross_vs_market_gap": 0.058149,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4047,6 +4865,9 @@
       "spend_per_order": 187.0,
       "discount_ratio": 0.0,
       "revenue_change": null,
+      "gross_revenue_change": null,
+      "gross_same_week_change": -0.036082,
+      "gross_vs_market_gap": -0.373388,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4065,6 +4886,9 @@
       "spend_per_order": 336.942105,
       "discount_ratio": 0.209134,
       "revenue_change": 0.091543,
+      "gross_revenue_change": 0.089153,
+      "gross_same_week_change": 0.462317,
+      "gross_vs_market_gap": 0.125011,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4083,6 +4907,9 @@
       "spend_per_order": 193.215385,
       "discount_ratio": 0.073461,
       "revenue_change": 0.175799,
+      "gross_revenue_change": -0.013411,
+      "gross_same_week_change": -0.17559,
+      "gross_vs_market_gap": -0.512896,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4101,6 +4928,9 @@
       "spend_per_order": 219.085714,
       "discount_ratio": 0.213216,
       "revenue_change": 0.189907,
+      "gross_revenue_change": 0.017328,
+      "gross_same_week_change": -0.242558,
+      "gross_vs_market_gap": -0.579864,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4119,6 +4949,9 @@
       "spend_per_order": 231.410345,
       "discount_ratio": 0.43388,
       "revenue_change": 0.11368,
+      "gross_revenue_change": 0.075767,
+      "gross_same_week_change": 0.610144,
+      "gross_vs_market_gap": 0.272838,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4137,6 +4970,9 @@
       "spend_per_order": 269.368929,
       "discount_ratio": 0.075706,
       "revenue_change": 1.154213,
+      "gross_revenue_change": 1.120222,
+      "gross_same_week_change": 0.744412,
+      "gross_vs_market_gap": 0.407106,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4155,6 +4991,9 @@
       "spend_per_order": 300.698625,
       "discount_ratio": 0.221114,
       "revenue_change": 0.170064,
+      "gross_revenue_change": 0.208617,
+      "gross_same_week_change": -0.028346,
+      "gross_vs_market_gap": -0.365652,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4173,6 +5012,9 @@
       "spend_per_order": 337.7,
       "discount_ratio": 0.008223,
       "revenue_change": 1.052108,
+      "gross_revenue_change": 1.062855,
+      "gross_same_week_change": 1.247525,
+      "gross_vs_market_gap": 0.910219,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4191,6 +5033,9 @@
       "spend_per_order": 249.8,
       "discount_ratio": 0.082068,
       "revenue_change": -0.290072,
+      "gross_revenue_change": -0.265233,
+      "gross_same_week_change": -0.349896,
+      "gross_vs_market_gap": -0.687202,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4209,6 +5054,9 @@
       "spend_per_order": 225.552239,
       "discount_ratio": 0.145635,
       "revenue_change": 0.261278,
+      "gross_revenue_change": 0.219526,
+      "gross_same_week_change": 0.053233,
+      "gross_vs_market_gap": -0.284073,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4227,6 +5075,9 @@
       "spend_per_order": 156.272727,
       "discount_ratio": 0.076303,
       "revenue_change": -0.408363,
+      "gross_revenue_change": -0.41033,
+      "gross_same_week_change": -0.314524,
+      "gross_vs_market_gap": -0.65183,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4245,6 +5096,9 @@
       "spend_per_order": 171.593846,
       "discount_ratio": 0.156809,
       "revenue_change": 0.389156,
+      "gross_revenue_change": 0.292262,
+      "gross_same_week_change": 0.923002,
+      "gross_vs_market_gap": 0.585696,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4263,6 +5117,9 @@
       "spend_per_order": 210.972778,
       "discount_ratio": 0.239815,
       "revenue_change": 1.032424,
+      "gross_revenue_change": 0.844586,
+      "gross_same_week_change": 1.215014,
+      "gross_vs_market_gap": 0.877708,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4281,6 +5138,9 @@
       "spend_per_order": 270.592286,
       "discount_ratio": 0.199822,
       "revenue_change": 1.022552,
+      "gross_revenue_change": 0.921425,
+      "gross_same_week_change": 1.298858,
+      "gross_vs_market_gap": 0.961552,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4299,6 +5159,9 @@
       "spend_per_order": 285.598462,
       "discount_ratio": 0.146338,
       "revenue_change": 0.002078,
+      "gross_revenue_change": 0.024001,
+      "gross_same_week_change": 0.151263,
+      "gross_vs_market_gap": -0.186043,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4317,6 +5180,9 @@
       "spend_per_order": 110.194608,
       "discount_ratio": 0.26879,
       "revenue_change": 0.300425,
+      "gross_revenue_change": 0.296438,
+      "gross_same_week_change": 0.160028,
+      "gross_vs_market_gap": -0.177278,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4335,6 +5201,9 @@
       "spend_per_order": 234.368333,
       "discount_ratio": 0.168086,
       "revenue_change": 0.704712,
+      "gross_revenue_change": 0.78799,
+      "gross_same_week_change": 0.385414,
+      "gross_vs_market_gap": 0.048108,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4353,6 +5222,9 @@
       "spend_per_order": 379.932258,
       "discount_ratio": 0.035626,
       "revenue_change": 0.195398,
+      "gross_revenue_change": 0.178406,
+      "gross_same_week_change": 1.0355,
+      "gross_vs_market_gap": 0.698194,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4371,6 +5243,9 @@
       "spend_per_order": 229.78913,
       "discount_ratio": 0.105417,
       "revenue_change": 0.137766,
+      "gross_revenue_change": 0.101901,
+      "gross_same_week_change": -0.075547,
+      "gross_vs_market_gap": -0.412853,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4389,6 +5264,9 @@
       "spend_per_order": 258.618367,
       "discount_ratio": 0.214652,
       "revenue_change": 3.871339,
+      "gross_revenue_change": 3.71672,
+      "gross_same_week_change": 0.841787,
+      "gross_vs_market_gap": 0.504481,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4407,6 +5285,9 @@
       "spend_per_order": 241.637556,
       "discount_ratio": 0.407477,
       "revenue_change": -0.020628,
+      "gross_revenue_change": 0.024949,
+      "gross_same_week_change": 0.055934,
+      "gross_vs_market_gap": -0.281372,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4425,6 +5306,9 @@
       "spend_per_order": 278.916893,
       "discount_ratio": 0.262746,
       "revenue_change": 0.253647,
+      "gross_revenue_change": 0.231101,
+      "gross_same_week_change": 0.309412,
+      "gross_vs_market_gap": -0.027894,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4443,6 +5327,9 @@
       "spend_per_order": 311.809524,
       "discount_ratio": 0.03819,
       "revenue_change": 0.174108,
+      "gross_revenue_change": 0.025626,
+      "gross_same_week_change": 0.145549,
+      "gross_vs_market_gap": -0.191757,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4461,6 +5348,9 @@
       "spend_per_order": 270.821739,
       "discount_ratio": 0.305637,
       "revenue_change": 0.598342,
+      "gross_revenue_change": 0.611806,
+      "gross_same_week_change": 0.630635,
+      "gross_vs_market_gap": 0.293329,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4479,6 +5369,9 @@
       "spend_per_order": 320.634375,
       "discount_ratio": 0.299112,
       "revenue_change": 0.083985,
+      "gross_revenue_change": 0.103248,
+      "gross_same_week_change": 0.364032,
+      "gross_vs_market_gap": 0.026726,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4497,6 +5390,9 @@
       "spend_per_order": 181.266667,
       "discount_ratio": 0.302264,
       "revenue_change": -0.018766,
+      "gross_revenue_change": -0.307931,
+      "gross_same_week_change": -0.021606,
+      "gross_vs_market_gap": -0.358912,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4515,6 +5411,9 @@
       "spend_per_order": 232.904167,
       "discount_ratio": 0.240891,
       "revenue_change": 0.760757,
+      "gross_revenue_change": 0.746147,
+      "gross_same_week_change": 0.799311,
+      "gross_vs_market_gap": 0.462005,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4533,6 +5432,9 @@
       "spend_per_order": 203.280682,
       "discount_ratio": 0.288148,
       "revenue_change": 0.296734,
+      "gross_revenue_change": 0.207084,
+      "gross_same_week_change": -0.387057,
+      "gross_vs_market_gap": -0.724363,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4551,6 +5453,9 @@
       "spend_per_order": 389.166667,
       "discount_ratio": 0.264953,
       "revenue_change": 0.029541,
+      "gross_revenue_change": 0.158522,
+      "gross_same_week_change": 0.931496,
+      "gross_vs_market_gap": 0.59419,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4569,6 +5474,9 @@
       "spend_per_order": 236.95407,
       "discount_ratio": 0.212649,
       "revenue_change": 0.145782,
+      "gross_revenue_change": 0.100356,
+      "gross_same_week_change": 0.274426,
+      "gross_vs_market_gap": -0.06288,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4587,6 +5495,9 @@
       "spend_per_order": 261.871488,
       "discount_ratio": 0.289483,
       "revenue_change": -0.05167,
+      "gross_revenue_change": -0.020329,
+      "gross_same_week_change": -0.027556,
+      "gross_vs_market_gap": -0.364862,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4605,6 +5516,9 @@
       "spend_per_order": 231.573684,
       "discount_ratio": 0.165184,
       "revenue_change": -0.262118,
+      "gross_revenue_change": -0.318573,
+      "gross_same_week_change": -0.147134,
+      "gross_vs_market_gap": -0.48444,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4623,6 +5537,9 @@
       "spend_per_order": 232.275862,
       "discount_ratio": 0.234841,
       "revenue_change": -0.448556,
+      "gross_revenue_change": -0.462788,
+      "gross_same_week_change": -0.304717,
+      "gross_vs_market_gap": -0.642023,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4641,6 +5558,9 @@
       "spend_per_order": 333.652895,
       "discount_ratio": 0.041908,
       "revenue_change": 0.090225,
+      "gross_revenue_change": 0.063334,
+      "gross_same_week_change": 0.573767,
+      "gross_vs_market_gap": 0.236461,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4659,6 +5579,9 @@
       "spend_per_order": 213.980723,
       "discount_ratio": 0.260689,
       "revenue_change": 0.21291,
+      "gross_revenue_change": 0.160308,
+      "gross_same_week_change": 0.212727,
+      "gross_vs_market_gap": -0.124579,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4677,6 +5600,9 @@
       "spend_per_order": 224.266071,
       "discount_ratio": 0.196107,
       "revenue_change": 0.17397,
+      "gross_revenue_change": 0.220802,
+      "gross_same_week_change": 0.373102,
+      "gross_vs_market_gap": 0.035796,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4695,6 +5621,9 @@
       "spend_per_order": 356.240833,
       "discount_ratio": 0.2113,
       "revenue_change": -0.050729,
+      "gross_revenue_change": -0.041755,
+      "gross_same_week_change": -0.138036,
+      "gross_vs_market_gap": -0.475342,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4713,6 +5642,9 @@
       "spend_per_order": 273.176087,
       "discount_ratio": 0.078867,
       "revenue_change": -0.371676,
+      "gross_revenue_change": -0.3912,
+      "gross_same_week_change": -0.245131,
+      "gross_vs_market_gap": -0.582437,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4731,6 +5663,9 @@
       "spend_per_order": 272.34375,
       "discount_ratio": 0.071687,
       "revenue_change": -0.60639,
+      "gross_revenue_change": -0.607886,
+      "gross_same_week_change": -0.532191,
+      "gross_vs_market_gap": -0.869497,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4749,6 +5684,9 @@
       "spend_per_order": 302.116667,
       "discount_ratio": 0.282445,
       "revenue_change": -0.078499,
+      "gross_revenue_change": -0.082079,
+      "gross_same_week_change": -0.037324,
+      "gross_vs_market_gap": -0.37463,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4767,6 +5705,9 @@
       "spend_per_order": 322.25,
       "discount_ratio": 0.052516,
       "revenue_change": -0.088674,
+      "gross_revenue_change": -0.091826,
+      "gross_same_week_change": -0.129656,
+      "gross_vs_market_gap": -0.466962,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4785,6 +5726,9 @@
       "spend_per_order": 290.265455,
       "discount_ratio": 0.201518,
       "revenue_change": 0.032252,
+      "gross_revenue_change": 0.09358,
+      "gross_same_week_change": 0.23846,
+      "gross_vs_market_gap": -0.098846,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4803,6 +5747,9 @@
       "spend_per_order": 221.217931,
       "discount_ratio": 0.195077,
       "revenue_change": -0.220978,
+      "gross_revenue_change": -0.242854,
+      "gross_same_week_change": 0.282088,
+      "gross_vs_market_gap": -0.055218,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4821,6 +5768,9 @@
       "spend_per_order": 184.768421,
       "discount_ratio": 0.133292,
       "revenue_change": 0.242822,
+      "gross_revenue_change": 0.224086,
+      "gross_same_week_change": 0.181076,
+      "gross_vs_market_gap": -0.15623,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4839,6 +5789,9 @@
       "spend_per_order": 265.284091,
       "discount_ratio": 0.155146,
       "revenue_change": -0.174651,
+      "gross_revenue_change": -0.138439,
+      "gross_same_week_change": 0.056108,
+      "gross_vs_market_gap": -0.281198,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4857,6 +5810,9 @@
       "spend_per_order": 118.047727,
       "discount_ratio": 0.325471,
       "revenue_change": -0.043218,
+      "gross_revenue_change": -0.005099,
+      "gross_same_week_change": -0.258696,
+      "gross_vs_market_gap": -0.596002,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4875,6 +5831,9 @@
       "spend_per_order": 270.173333,
       "discount_ratio": 0.291173,
       "revenue_change": 0.409143,
+      "gross_revenue_change": 0.429452,
+      "gross_same_week_change": 0.245615,
+      "gross_vs_market_gap": -0.091691,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4893,6 +5852,9 @@
       "spend_per_order": 224.1875,
       "discount_ratio": 0.142071,
       "revenue_change": 0.072523,
+      "gross_revenue_change": 0.057383,
+      "gross_same_week_change": -0.09085,
+      "gross_vs_market_gap": -0.428156,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4911,6 +5873,9 @@
       "spend_per_order": 198.147222,
       "discount_ratio": 0.206512,
       "revenue_change": -0.478358,
+      "gross_revenue_change": -0.453375,
+      "gross_same_week_change": 0.070903,
+      "gross_vs_market_gap": -0.266403,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4929,6 +5894,9 @@
       "spend_per_order": 211.146667,
       "discount_ratio": 0.317693,
       "revenue_change": -0.000972,
+      "gross_revenue_change": -0.068668,
+      "gross_same_week_change": 0.279359,
+      "gross_vs_market_gap": -0.057947,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4947,6 +5915,9 @@
       "spend_per_order": 300.395455,
       "discount_ratio": 0.158326,
       "revenue_change": 1.376845,
+      "gross_revenue_change": 1.460392,
+      "gross_same_week_change": 0.628896,
+      "gross_vs_market_gap": 0.29159,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4965,6 +5936,9 @@
       "spend_per_order": 253.39449,
       "discount_ratio": 0.171644,
       "revenue_change": -0.033149,
+      "gross_revenue_change": -0.099197,
+      "gross_same_week_change": 0.338029,
+      "gross_vs_market_gap": 0.000723,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -4983,6 +5957,9 @@
       "spend_per_order": 171.395745,
       "discount_ratio": 0.283157,
       "revenue_change": -0.270379,
+      "gross_revenue_change": -0.287777,
+      "gross_same_week_change": -0.04369,
+      "gross_vs_market_gap": -0.380996,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5001,6 +5978,9 @@
       "spend_per_order": 217.399333,
       "discount_ratio": 0.189192,
       "revenue_change": -0.324194,
+      "gross_revenue_change": -0.342712,
+      "gross_same_week_change": -0.100441,
+      "gross_vs_market_gap": -0.437747,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5019,6 +5999,9 @@
       "spend_per_order": 278.822339,
       "discount_ratio": 0.153998,
       "revenue_change": 0.243981,
+      "gross_revenue_change": 0.213337,
+      "gross_same_week_change": 0.277105,
+      "gross_vs_market_gap": -0.060201,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5037,6 +6020,9 @@
       "spend_per_order": 247.844697,
       "discount_ratio": 0.347673,
       "revenue_change": -0.100155,
+      "gross_revenue_change": -0.041913,
+      "gross_same_week_change": 0.154459,
+      "gross_vs_market_gap": -0.182847,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5057,6 +6043,9 @@
       "spend_per_order": 321.002055,
       "discount_ratio": 0.324245,
       "revenue_change": 0.470615,
+      "gross_revenue_change": 0.410064,
+      "gross_same_week_change": 0.188892,
+      "gross_vs_market_gap": -0.148414,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5075,6 +6064,9 @@
       "spend_per_order": 356.240833,
       "discount_ratio": 0.2113,
       "revenue_change": -0.050729,
+      "gross_revenue_change": -0.041755,
+      "gross_same_week_change": -0.138036,
+      "gross_vs_market_gap": -0.475342,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5093,6 +6085,9 @@
       "spend_per_order": 230.820508,
       "discount_ratio": 0.28294,
       "revenue_change": 0.317709,
+      "gross_revenue_change": 0.270538,
+      "gross_same_week_change": 0.197553,
+      "gross_vs_market_gap": -0.139753,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5111,6 +6106,9 @@
       "spend_per_order": 253.39449,
       "discount_ratio": 0.171644,
       "revenue_change": -0.033149,
+      "gross_revenue_change": -0.099197,
+      "gross_same_week_change": 0.338029,
+      "gross_vs_market_gap": 0.000723,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5129,6 +6127,9 @@
       "spend_per_order": 278.822339,
       "discount_ratio": 0.153998,
       "revenue_change": 0.243981,
+      "gross_revenue_change": 0.213337,
+      "gross_same_week_change": 0.277105,
+      "gross_vs_market_gap": -0.060201,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5147,6 +6148,9 @@
       "spend_per_order": 258.362126,
       "discount_ratio": 0.097068,
       "revenue_change": 0.372209,
+      "gross_revenue_change": 0.304526,
+      "gross_same_week_change": 1.035438,
+      "gross_vs_market_gap": 0.698132,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5165,6 +6169,9 @@
       "spend_per_order": 247.844697,
       "discount_ratio": 0.347673,
       "revenue_change": -0.100155,
+      "gross_revenue_change": -0.041913,
+      "gross_same_week_change": 0.154459,
+      "gross_vs_market_gap": -0.182847,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5183,6 +6190,9 @@
       "spend_per_order": 261.871488,
       "discount_ratio": 0.289483,
       "revenue_change": -0.05167,
+      "gross_revenue_change": -0.020329,
+      "gross_same_week_change": -0.027556,
+      "gross_vs_market_gap": -0.364862,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5201,6 +6211,9 @@
       "spend_per_order": 202.408442,
       "discount_ratio": 0.291619,
       "revenue_change": 0.103899,
+      "gross_revenue_change": 0.131473,
+      "gross_same_week_change": -0.023588,
+      "gross_vs_market_gap": -0.360894,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5219,6 +6232,9 @@
       "spend_per_order": 278.916893,
       "discount_ratio": 0.262746,
       "revenue_change": 0.253647,
+      "gross_revenue_change": 0.231101,
+      "gross_same_week_change": 0.309412,
+      "gross_vs_market_gap": -0.027894,
       "return_rate": null,
       "longitude": null,
       "latitude": null
@@ -5304,12 +6320,20 @@
       "reason": "菜品表缺少退菜数量字段"
     },
     "discount_dependency": {
-      "enabled": false,
-      "reason": "预警阈值尚未配置"
+      "enabled": true,
+      "threshold": 0.2,
+      "rule": "优惠金额占营业额比例大于等于20%",
+      "store_count": 85,
+      "province_count": 14
     },
     "revenue_decline": {
-      "enabled": false,
-      "reason": "预警阈值尚未配置"
+      "enabled": true,
+      "threshold_gap": -0.1,
+      "rule": "昨日营业额较上周同日下降，且同期变化率低于全国大盘10个百分点及以上",
+      "comparison_date": "2026-06-23",
+      "market_change": 0.337306,
+      "store_count": 54,
+      "province_count": 7
     }
   },
   "city_modules": {
